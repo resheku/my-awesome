@@ -804,6 +804,7 @@ A collection of awesome things.
 - [frictionlessdata/frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Frictionless is a framework to describe, extract, validate, and transform tabular data.
 - [frictionlessdata/tabulator-py](https://github.com/frictionlessdata/tabulator-py) - Python library for reading and writing tabular data via streams.
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
+- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
 - [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
@@ -854,7 +855,6 @@ A collection of awesome things.
 - [incuna/django-pgcrypto-fields](https://github.com/incuna/django-pgcrypto-fields) - Transparent field level encryption for Django using the pgcrypto postgresql extension.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
-- [intake/filesystem_spec](https://github.com/intake/filesystem_spec) - A specification that python filesystems should adhere to.
 - [inueni/django-subadmin](https://github.com/inueni/django-subadmin) - A special kind of ModelAdmin that allows it to be nested within another ModelAdmin 
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
