@@ -481,7 +481,6 @@ A collection of awesome things.
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
 - [mbernico/CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
-- [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a self-organizing data hub for S3
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -678,6 +677,7 @@ A collection of awesome things.
 - [byashimov/django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [cdrx/django-admin-menu](https://github.com/cdrx/django-admin-menu) - A Django admin theme with a horizontal, tabbed navigation bar
 - [celery/django-celery-beat](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -959,6 +959,7 @@ A collection of awesome things.
 - [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod) - 
 - [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python
+- [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
