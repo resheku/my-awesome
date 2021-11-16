@@ -235,7 +235,6 @@ A collection of awesome things.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [dundee/gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
@@ -255,6 +254,7 @@ A collection of awesome things.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -919,7 +919,7 @@ A collection of awesome things.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [madflojo/automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
