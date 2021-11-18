@@ -834,7 +834,7 @@ A collection of awesome things.
 - [google/textfsm](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
-- [grapl-security/grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and  Response
+- [grapl-security/grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and Response
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [gregs1104/pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
@@ -1152,6 +1152,7 @@ A collection of awesome things.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [yourlabs/django-cities-light](https://github.com/yourlabs/django-cities-light) - A simple app providing three models: Country, Region and City model. Also provided, a command to insert or update data from geonames database dumps. Status: stable.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [zanellia/prometeo](https://github.com/zanellia/prometeo) - An experimental Python-to-C transpiler and domain specific language for embedded high-performance computing
 - [zestyping/q](https://github.com/zestyping/q) - Quick and dirty debugging output for tired programmers. ⛺
 - [zopefoundation/zope.component](https://github.com/zopefoundation/zope.component) - 
 - [zopefoundation/zope.interface](https://github.com/zopefoundation/zope.interface) - Interfaces for Python
@@ -1178,6 +1179,7 @@ A collection of awesome things.
 - [boltops-tools/terraspace](https://github.com/boltops-tools/terraspace) - Terraspace: The Terraform Framework
 - [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [eradman/ephemeralpg](https://github.com/eradman/ephemeralpg) - Quickly spin up a temporary PostgreSQL test databases
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [johnl/news-sniffer](https://github.com/johnl/news-sniffer) - A project that watches news media webpages for changes in news articles
