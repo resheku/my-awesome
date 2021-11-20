@@ -1228,7 +1228,7 @@ A collection of awesome things.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 
 ## SCSS
