@@ -1361,7 +1361,7 @@ A collection of awesome things.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - Build dashboards on data from every kind of database, file, and API.
+- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - Turn scripts and queries into dashboards and recurring exports.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
