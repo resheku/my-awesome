@@ -648,7 +648,6 @@ A collection of awesome things.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [antoinecarme/pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
 - [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types) - 👻  Phantom types for Python
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [approvals/ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - ApprovalTests for python
 - [areski/django-admin-tools-stats](https://github.com/areski/django-admin-tools-stats) - Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias
 - [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - A bookkeeping & financial analysis engine for the Django Framework. UNDER ACTIVE DEVELOPMENT & NOT STABLE YET.
@@ -992,6 +991,7 @@ A collection of awesome things.
 - [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [plainas/icl](https://github.com/plainas/icl) - An interactive memory aid for one-liners
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
@@ -1348,6 +1348,7 @@ A collection of awesome things.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
