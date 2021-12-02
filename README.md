@@ -294,6 +294,7 @@ A collection of awesome things.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [pglet/pglet](https://github.com/pglet/pglet) - Pglet server and client
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
@@ -342,6 +343,7 @@ A collection of awesome things.
 ## Groovy
 
 - [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) - Framework for unit testing Jenkins pipelines 
+- [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet!
 - [stchar/pipeline-dsl-seed](https://github.com/stchar/pipeline-dsl-seed) - Test and deploy Jenkins pipelines right form the Jenkins
 
 ## HTML
@@ -387,6 +389,7 @@ A collection of awesome things.
 - [dropbox/mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - A simple plugin that allows running mypy from PyCharm and navigate between errors
 - [gisgraphy/gisgraphy](https://github.com/gisgraphy/gisgraphy) - geocoding and geolocalisation webservices for Geonames, Openstreetmap, Openaddresses, Tiger and quattroshapes data
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) -  Open-source distributed computation and storage platform
+- [jenkinsci/build-blocker-plugin](https://github.com/jenkinsci/build-blocker-plugin) - Jenkins build blocker plugin
 - [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -415,7 +418,7 @@ A collection of awesome things.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
-- [dataqa/dataqa](https://github.com/dataqa/dataqa) - Labelling platform for text using distant supervision.
+- [dataqa/dataqa](https://github.com/dataqa/dataqa) - Labelling platform for text using weak supervision.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
@@ -1013,6 +1016,7 @@ A collection of awesome things.
 - [pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor
 - [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
+- [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pypa/sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
 - [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm) - the blessed package to manage your versions by scm tags
@@ -1092,7 +1096,6 @@ A collection of awesome things.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
-- [takluyver/flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [target/matrixprofile-ts](https://github.com/target/matrixprofile-ts) - A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
@@ -1349,7 +1352,7 @@ A collection of awesome things.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
@@ -1363,7 +1366,7 @@ A collection of awesome things.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - Turn scripts and queries into dashboards and recurring exports.
+- [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
@@ -1457,6 +1460,7 @@ A collection of awesome things.
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [lknik/gdpr](https://github.com/lknik/gdpr) - 
 - [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
