@@ -485,6 +485,7 @@ A collection of awesome things.
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
 - [mbernico/CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
+- [mhansen/profilerpedia](https://github.com/mhansen/profilerpedia) - Catalog of profilers, profile data formats, data format converters, and profile analysis UIs.
 - [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a self-organizing data hub for S3
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -675,6 +676,7 @@ A collection of awesome things.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow is an open source no-code database tool and Airtable alternative. This is a mirrored repository, the official one is hosted on https://gitlab.com/bramw/baserow.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [btwael/superstring.py](https://github.com/btwael/superstring.py) - A fast and memory-optimized string library for heavy-text manipulation in Python
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [byashimov/django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
@@ -1232,7 +1234,7 @@ A collection of awesome things.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 
 ## SCSS
