@@ -131,6 +131,7 @@ A collection of awesome things.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
+- [sakura-editor/sakura](https://github.com/sakura-editor/sakura) - SAKURA Editor (Japanese text editor for MS Windows)
 - [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
 - [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a Python to C++ compiler. Read the introduction below to learn about the restrictions.
 - [tomszilagyi/zutty](https://github.com/tomszilagyi/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
