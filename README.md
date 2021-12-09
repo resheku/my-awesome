@@ -295,7 +295,7 @@ A collection of awesome things.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU, memory usage over time, and down to the line number. Saving infrastructure cost, improving performance, and increasing reliability.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [pglet/pglet](https://github.com/pglet/pglet) - Pglet server and client
+- [pglet/pglet](https://github.com/pglet/pglet) - Pglet - build internal web apps quickly in the language you already know!
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
@@ -715,6 +715,7 @@ A collection of awesome things.
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [crucialfelix/django-ajax-selects](https://github.com/crucialfelix/django-ajax-selects) - jQuery UI-powered auto-complete fields for ForeignKey, ManyToMany and text fields
 - [cs01/pythonloc](https://github.com/cs01/pythonloc) - drop-in Python replacement that imports packages from local directory (attempt at PEP 582 implementation)
+- [csurfer/pyheatmagic](https://github.com/csurfer/pyheatmagic) - IPython magic command to profile and view your python code as a heat map.
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
@@ -1355,7 +1356,7 @@ A collection of awesome things.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
@@ -1430,6 +1431,7 @@ A collection of awesome things.
 - [LevelbossMike/vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - This curated list contains  python packages for time series analysis
 - [Penetrum-Security/Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
+- [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - Cloud service provider security mistakes
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
