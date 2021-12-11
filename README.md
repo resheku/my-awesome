@@ -1141,7 +1141,7 @@ A collection of awesome things.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [vladbalmos/mitzasql](https://github.com/vladbalmos/mitzasql) - MySQL command line / text based interface client
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [vsajip/sarge](https://github.com/vsajip/sarge) - This is a mirror repo ONLY for testing with Travis. Development happens at BitBucket:
+- [vsajip/sarge-old](https://github.com/vsajip/sarge-old) - Subprocess Allegedly Rewards Good Encapsulation :-) N.B. This repository has been migrated from Mercurial on 2019-11-16, so references to commits before this date will refer to the Mercurial source and not this Git repository. The migration is marked by a commit that adds a .gitignore file.
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
