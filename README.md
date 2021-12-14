@@ -408,7 +408,7 @@ A collection of awesome things.
 - [ForestAdmin/lumber](https://github.com/ForestAdmin/lumber) - Install Forest Admin in minutes.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [RobertoPrevato/KingTable](https://github.com/RobertoPrevato/KingTable) - Library for administrative tables that are able to build themselves, on the basis of the input data.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
 - [Travelport-Ukraine/uapi-json](https://github.com/Travelport-Ukraine/uapi-json) - Best Travelport Universal API wrapper ever :airplane: :mountain_railway: :hotel: 
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
