@@ -946,6 +946,7 @@ A collection of awesome things.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [metaperl/python-oop](https://github.com/metaperl/python-oop) - Catalog of Python object-oriented programming articles and links
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
+- [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [michaelklishin/tls-gen](https://github.com/michaelklishin/tls-gen) - Generates self-signed x509/TLS/SSL certificates useful for development
 - [microsoft/playwright-pytest](https://github.com/microsoft/playwright-pytest) - Pytest plugin to write end-to-end browser tests with Playwright.
