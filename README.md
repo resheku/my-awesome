@@ -431,7 +431,7 @@ A collection of awesome things.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile, SingleFileZ, and WebMemex, but gooderer. Full text search coming soon
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) -  💾 DiskerNet - welcome to the diskernet. An internet on your disk. 
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
