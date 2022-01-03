@@ -432,7 +432,7 @@ A collection of awesome things.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) -  💾 DiskerNet - welcome to the diskernet. An internet on your disk. Disconnect with DiskerNet. An internet for the apocalypse. 
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) -  💾 DiskerNet - full text search archive from your browsing and bookmarks. Welcome, Weclome!--to "the diskernet": an internet on yer disk. Disconnect with DiskerNet, an internet for the post-online apocalypse. 
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -1280,6 +1280,7 @@ A collection of awesome things.
 - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
 - [bruj0/vault_jenkins](https://github.com/bruj0/vault_jenkins) - How to use Vault to store secrets and use them in Jenkins
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
+- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
