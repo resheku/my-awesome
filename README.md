@@ -432,7 +432,7 @@ A collection of awesome things.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) -  💾 DiskerNet - full text search archive from your browsing and bookmarks. Welcome, Weclome!--to "the diskernet": an internet on yer disk. Disconnect with DiskerNet, an internet for the post-online apocalypse. 
+- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) -  💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. 
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -1481,7 +1481,6 @@ A collection of awesome things.
 - [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
