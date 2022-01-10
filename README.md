@@ -433,7 +433,7 @@ A collection of awesome things.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) -  💾 Diskernet - Your preferred backup solution. It's like you're still online! Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet: an internet on yer disk. Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename) ;P ;) xx;p
+- [i5ik/Diskernet](https://github.com/i5ik/Diskernet) -  💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -857,7 +857,7 @@ A collection of awesome things.
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [hannob/snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers
-- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files  
+- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [hauxir/errorpush](https://github.com/hauxir/errorpush) - Minimalist Error collection Service compatible with Rollbar clients. Sentry or Rollbar alternative.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line 
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
