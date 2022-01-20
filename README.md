@@ -61,6 +61,7 @@ A collection of awesome things.
 - [Celtoys/Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
+- [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [arkhipov/temporal_tables](https://github.com/arkhipov/temporal_tables) - Temporal Tables PostgreSQL Extension
@@ -82,6 +83,7 @@ A collection of awesome things.
 - [martanne/dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
+- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. 
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -277,7 +279,7 @@ A collection of awesome things.
 - [leanovate/gopter](https://github.com/leanovate/gopter) - GOlang Property TestER
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers. 
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [lmorg/murex](https://github.com/lmorg/murex) - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -763,7 +765,6 @@ A collection of awesome things.
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [djrobstep/migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [djstein/modern-django](https://github.com/djstein/modern-django) - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017
-- [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
@@ -917,7 +918,6 @@ A collection of awesome things.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. 
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
-- [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [kristovatlas/osx-config-check](https://github.com/kristovatlas/osx-config-check) - Verify the configuration of your OS X machine.
 - [kvesteri/sqlalchemy-continuum](https://github.com/kvesteri/sqlalchemy-continuum) - Versioning extension for SQLAlchemy.
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
@@ -991,7 +991,6 @@ A collection of awesome things.
 - [npcole/npyscreen](https://github.com/npcole/npyscreen) - Automatically exported from code.google.com/p/npyscreen
 - [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance analysis for Python snippets
 - [nshafer/django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
-- [nsidnev/fastapi-realworld-example-app](https://github.com/nsidnev/fastapi-realworld-example-app) - Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [nvdv/vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [nyaruka/smartmin](https://github.com/nyaruka/smartmin) - Django Smartmin - An admin-like utility for users
@@ -1125,7 +1124,6 @@ A collection of awesome things.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [timofurrer/try](https://github.com/timofurrer/try) - Dead simple CLI tool to try Python packages - It's never been easier! :package: 
