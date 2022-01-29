@@ -1318,6 +1318,7 @@ A collection of awesome things.
 - [rodrigobdz/fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - ⚡️ Supercharge your touchbar with fish 🐠
 - [samrocketman/docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [space-sh/space](https://github.com/space-sh/space) - Single-file dependency-free automation tool written in Bash
