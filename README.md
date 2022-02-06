@@ -185,6 +185,7 @@ A collection of awesome things.
 
 ## Dockerfile
 
+- [coreruleset/modsecurity-docker](https://github.com/coreruleset/modsecurity-docker) - The official ModSecurity Docker images
 - [ricardbejarano/nginx](https://github.com/ricardbejarano/nginx) - ⚙️   Built-from-source container image of the NGINX HTTP server
 
 ## Emacs Lisp
@@ -478,6 +479,7 @@ A collection of awesome things.
 ## Jinja
 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [florianutz/ubuntu2004_cis](https://github.com/florianutz/ubuntu2004_cis) - Ubuntu CIS Hardening Ansible Role
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 
 ## Jupyter Notebook
@@ -726,6 +728,7 @@ A collection of awesome things.
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+- [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository)
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
