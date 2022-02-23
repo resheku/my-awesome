@@ -501,9 +501,9 @@ A collection of awesome things.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
 - [mbernico/CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
 - [mhansen/profilerpedia](https://github.com/mhansen/profilerpedia) - Catalog of profilers, profile data formats, data format converters, and profile analysis UIs.
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a self-organizing data hub for S3
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ## Kotlin
 
