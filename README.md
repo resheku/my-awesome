@@ -1414,7 +1414,7 @@ A collection of awesome things.
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
