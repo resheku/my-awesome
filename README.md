@@ -1202,7 +1202,7 @@ A collection of awesome things.
 
 - [Homebrew/homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services with macOS' launchctl daemon manager
+- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 - [KrauseFx/overkill](https://github.com/KrauseFx/overkill) - Don't let iTunes interrupt your workflow 💥🎵   
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
