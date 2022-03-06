@@ -153,7 +153,6 @@ A collection of awesome things.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - django's default admin interface made customizable. popup windows replaced by modals. :mage: :zap:
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
-- [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Tree editor for writers
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 
@@ -1269,6 +1268,7 @@ A collection of awesome things.
 
 - [TalonCommunity/Wiki](https://github.com/TalonCommunity/Wiki) - Wiki for Talon beta
 - [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style) - django CMS Admin Style is a Django Theme tailored to the needs of django CMS.
+- [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
 
 ## Sass
 
