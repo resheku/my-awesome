@@ -578,6 +578,7 @@ A collection of awesome things.
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [darenasc/auto-eda](https://github.com/darenasc/auto-eda) - Automated Exploratory Data Analysis. Simplifying Data Exploration 
 - [linz/postgresql-tableversion](https://github.com/linz/postgresql-tableversion) - PostgreSQL table versioning management software
+- [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
 
 ## Perl
 
@@ -756,7 +757,6 @@ A collection of awesome things.
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- [dddomodossola/remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [deadpixi/contracts](https://github.com/deadpixi/contracts) - An implementation of contracts for Python.
 - [dedupeio/dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
@@ -1063,6 +1063,7 @@ A collection of awesome things.
 - [rabbitmq/tls-gen](https://github.com/rabbitmq/tls-gen) - Generates self-signed x509/TLS/SSL certificates useful for development
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
+- [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [rec/safer](https://github.com/rec/safer) - 🧿   safer writing in Python  🧿
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
@@ -1329,7 +1330,7 @@ A collection of awesome things.
 - [rodrigobdz/fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - ⚡️ Supercharge your touchbar with fish 🐠
 - [samrocketman/docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [space-sh/space](https://github.com/space-sh/space) - Single-file dependency-free automation tool written in Bash
