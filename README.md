@@ -1155,7 +1155,7 @@ A collection of awesome things.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time object tracking to any detector.
 - [twelvesec/gasmask](https://github.com/twelvesec/gasmask) - Information gathering tool - OSINT
-- [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [uqfoundation/klepto](https://github.com/uqfoundation/klepto) - persistent caching to memory, disk, or database
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
@@ -1521,6 +1521,7 @@ A collection of awesome things.
 - [powa-team/powa](https://github.com/powa-team/powa) - PostgreSQL Workload Analyzer
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
