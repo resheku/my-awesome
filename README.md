@@ -885,6 +885,7 @@ A collection of awesome things.
 - [ianozsvald/learning_text_transformer](https://github.com/ianozsvald/learning_text_transformer) - Search 'from' and 'to' strings to learn a text cleaning mapping
 - [ianozsvald/learning_text_transformer_demo](https://github.com/ianozsvald/learning_text_transformer_demo) - Demo code for learning_text_transformer
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python, whatever the scale.
+- [idom-team/idom](https://github.com/idom-team/idom) - Create highly interactive web pages purely in Python
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [incuna/django-pgcrypto-fields](https://github.com/incuna/django-pgcrypto-fields) - Transparent field level encryption for Django using the pgcrypto postgresql extension.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
