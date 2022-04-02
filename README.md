@@ -310,7 +310,6 @@ A collection of awesome things.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [rach/pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-- [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
@@ -886,7 +885,7 @@ A collection of awesome things.
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [ianozsvald/learning_text_transformer](https://github.com/ianozsvald/learning_text_transformer) - Search 'from' and 'to' strings to learn a text cleaning mapping
 - [ianozsvald/learning_text_transformer_demo](https://github.com/ianozsvald/learning_text_transformer_demo) - Demo code for learning_text_transformer
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python, whatever the scale.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python at any scale.
 - [idom-team/idom](https://github.com/idom-team/idom) - Create highly interactive web pages purely in Python
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [incuna/django-pgcrypto-fields](https://github.com/incuna/django-pgcrypto-fields) - Transparent field level encryption for Django using the pgcrypto postgresql extension.
@@ -1387,7 +1386,6 @@ A collection of awesome things.
 - [mxcl/Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-- [relikd/Memmon](https://github.com/relikd/Memmon) - A simple deamon that restores your window positions on external monitors.
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
