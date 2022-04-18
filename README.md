@@ -1142,7 +1142,7 @@ A collection of awesome things.
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [textX/textX](https://github.com/textX/textX) - Domain-Specific Languages and parsers in Python made easy http://textx.github.io/textX/
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
-- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
