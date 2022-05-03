@@ -418,7 +418,7 @@ A collection of awesome things.
 
 ## JavaScript
 
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
 - [ForestAdmin/lumber](https://github.com/ForestAdmin/lumber) - Install Forest Admin in minutes.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
