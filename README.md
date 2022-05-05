@@ -45,6 +45,7 @@ A collection of awesome things.
 - [Sass](#sass)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
@@ -309,7 +310,7 @@ A collection of awesome things.
 - [pglet/pglet](https://github.com/pglet/pglet) - Pglet - build internal web apps quickly in the language you already know!
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [rach/pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard
@@ -639,7 +640,7 @@ A collection of awesome things.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata. 
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client built for autocomplete
+- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [Slimmer-AI/mpire](https://github.com/Slimmer-AI/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
@@ -1366,6 +1367,10 @@ A collection of awesome things.
 ## Starlark
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.  
+
+## Svelte
+
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
 ## Swift
 
