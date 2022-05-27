@@ -1271,6 +1271,7 @@ A collection of awesome things.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [meli/meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git https://crates.io/crates/meli
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL
