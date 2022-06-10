@@ -348,7 +348,7 @@ A collection of awesome things.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [x-motemen/gore](https://github.com/x-motemen/gore) -   Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
