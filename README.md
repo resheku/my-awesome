@@ -517,6 +517,7 @@ A collection of awesome things.
 ## Lua
 
 - [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
@@ -1468,7 +1469,6 @@ A collection of awesome things.
 ## Vim script
 
 - [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide) - VIM configured as powerful IDE (Integrated Development Environment)
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) - Nim plugin for NeoVim
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim. 
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
