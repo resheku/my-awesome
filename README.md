@@ -1030,7 +1030,7 @@ A collection of awesome things.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
@@ -1504,7 +1504,7 @@ A collection of awesome things.
 - [LevelbossMike/vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - This curated list contains  python packages for time series analysis
 - [Penetrum-Security/Security-List](https://github.com/Penetrum-Security/Security-List) - Penetrum LLC opensource security tool list.
-- [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - Cloud service provider security mistakes
+- [SummitRoute/csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes) - This repo has been replaced by https://www.cloudvulndb.org
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
