@@ -1028,13 +1028,13 @@ A collection of awesome things.
 - [ovh/celery-director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications. 
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
-- [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [plainas/icl](https://github.com/plainas/icl) - An interactive memory aid for one-liners
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
@@ -1338,7 +1338,7 @@ A collection of awesome things.
 - [iam4x/zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - Display feedback of terminal in the 🍏 Touchbar
 - [jareware/docker-volume-backup](https://github.com/jareware/docker-volume-backup) - Utility container for periodically backing up Docker volumes
 - [joeyhoer/starter](https://github.com/joeyhoer/starter) - Take the monotony out of macOS system setup.
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for 🪝Fish.
 - [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status. Designed for Fish.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
@@ -1515,7 +1515,6 @@ A collection of awesome things.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
-- [chriskempson/base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [datasets/awesome-data](https://github.com/datasets/awesome-data) - Awesome datasets curated. By topic and for core data https://datahub.io/docs/core-data
