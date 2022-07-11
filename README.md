@@ -430,6 +430,7 @@ A collection of awesome things.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
 - [ForestAdmin/lumber](https://github.com/ForestAdmin/lumber) - Install Forest Admin in minutes.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [LayBacc/rumin-web-clipper](https://github.com/LayBacc/rumin-web-clipper) - Web clipper browser extension for saving highlights, screenshots, and automatically extracting content from web pages. 
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [RobertoPrevato/KingTable](https://github.com/RobertoPrevato/KingTable) - Library for administrative tables that are able to build themselves, on the basis of the input data.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
@@ -458,7 +459,6 @@ A collection of awesome things.
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [jhlyeung/rumin-web-clipper](https://github.com/jhlyeung/rumin-web-clipper) - Web clipper browser extension for saving highlights, screenshots, and automatically extracting content from web pages. 
 - [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
