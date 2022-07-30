@@ -839,7 +839,7 @@ A collection of awesome things.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
 - [fabfuel/circuitbreaker](https://github.com/fabfuel/circuitbreaker) - Python "Circuit Breaker" implementation
-- [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model / admin for your tree based stuff.
+- [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
