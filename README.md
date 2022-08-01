@@ -29,7 +29,6 @@ A collection of awesome things.
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mathematica](#mathematica)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -544,10 +543,6 @@ A collection of awesome things.
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
-## Mathematica
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## Nim
 
 - [PMunch/nimcr](https://github.com/PMunch/nimcr) - 
@@ -661,6 +656,7 @@ A collection of awesome things.
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [Slimmer-AI/mpire](https://github.com/Slimmer-AI/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -950,7 +946,7 @@ A collection of awesome things.
 - [jwkvam/bowtie](https://github.com/jwkvam/bowtie) - :bowtie: Create a dashboard with python!
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 a wrapper around all package managers
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [khamidou/lptrace](https://github.com/khamidou/lptrace) - Trace any Python program, anywhere!
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -1403,14 +1399,17 @@ A collection of awesome things.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 - [duanefields/VirtualKVM](https://github.com/duanefields/VirtualKVM) - Automatically toggles Bluetooth and Target Display Mode when you connect a Macbook to your iMac via Thunderbolt.
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS 
 - [mamiksik/Desktop-Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop manager for macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
 - [mxcl/Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
