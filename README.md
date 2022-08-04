@@ -1085,7 +1085,7 @@ A collection of awesome things.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
-- [ray-project/ray](https://github.com/ray-project/ray) - A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (RLlib), and model serving (Ray Serve).
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [rec/safer](https://github.com/rec/safer) - 🧿   safer writing in Python  🧿
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
@@ -1352,6 +1352,7 @@ A collection of awesome things.
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [mherrmann/sentry-self-hosted](https://github.com/mherrmann/sentry-self-hosted) - Self-host Sentry for $5 per month
 - [mpereira/macbook-playbook](https://github.com/mpereira/macbook-playbook) - Install all your applications and configure everything the way you like it with one command
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff. 
