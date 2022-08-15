@@ -462,7 +462,7 @@ A collection of awesome things.
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
+- [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
@@ -1275,6 +1275,7 @@ A collection of awesome things.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [grapl-security/grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and Response
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
