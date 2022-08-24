@@ -501,7 +501,6 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
-- [Bodo-inc/Bodo-tutorial](https://github.com/Bodo-inc/Bodo-tutorial) - 
 - [RasaHQ/rasalit](https://github.com/RasaHQ/rasalit) - Visualizations and helpers to improve and debug machine learning models for Rasa Open Source
 - [TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
