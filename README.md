@@ -783,7 +783,7 @@ A collection of awesome things.
 - [dedupeio/dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [depthsecurity/armory](https://github.com/depthsecurity/armory) - Armory is a tool meant to take in a lot of external and discovery data from a lot of tools, add it to a database and correlate all of related information.
-- [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - 
+- [deshaw/pyflyby](https://github.com/deshaw/pyflyby) - A set of productivity tools for Python
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [devilbox/vhost-gen](https://github.com/devilbox/vhost-gen) - Configurable vHost generator for Apache 2.2, Apache 2.4 and Nginx
 - [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
