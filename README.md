@@ -1014,7 +1014,7 @@ A collection of awesome things.
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
 - [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code - Vermin 1.5 will end support for running via Python 2.7. Python 3.x is going to be required but detection of 2.x functionality will remain functional.
+- [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code - Vermin 1.6 will end support for running via Python 2.7. Python 3.x is going to be required but detection of 2.x functionality will remain functional.
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
