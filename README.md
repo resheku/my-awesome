@@ -509,7 +509,7 @@ A collection of awesome things.
 - [crawles/automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask
 - [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
+- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
 - [mbernico/CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
