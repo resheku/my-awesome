@@ -695,7 +695,7 @@ A collection of awesome things.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [antoinecarme/pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
-- [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types) - 👻  Phantom types for Python
+- [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types) - Phantom types for Python
 - [approvals/ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - ApprovalTests for python
 - [areski/django-admin-tools-stats](https://github.com/areski/django-admin-tools-stats) - Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias
 - [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - A bookkeeping & financial analysis engine for the Django Framework. UNDER ACTIVE DEVELOPMENT & NOT STABLE YET.
