@@ -216,7 +216,7 @@ A collection of awesome things.
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [acouvreur/traefik-ondemand-plugin](https://github.com/acouvreur/traefik-ondemand-plugin) - Traefik plugin to scale containers on demand
+- [acouvreur/sablier](https://github.com/acouvreur/sablier) - Traefik plugin to scale containers on demand
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
