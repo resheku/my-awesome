@@ -570,7 +570,7 @@ A collection of awesome things.
 
 ## Objective-C
 
-- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client 
+- [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client 
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [billziss-gh/EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
 - [jigish/slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
