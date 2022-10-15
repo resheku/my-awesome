@@ -532,6 +532,7 @@ A collection of awesome things.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [spywhere/tmux.nvim](https://github.com/spywhere/tmux.nvim) - neovim plugin for turning neovim into terminal multiplexer
@@ -1031,6 +1032,7 @@ A collection of awesome things.
 - [nvdv/vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [nyaruka/smartmin](https://github.com/nyaruka/smartmin) - Django Smartmin - An admin-like utility for users
 - [o/simmetrica](https://github.com/o/simmetrica) - Lightweight framework for collecting and aggregating event metrics as timeseries data
+- [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK 
 - [oracle/graalpython](https://github.com/oracle/graalpython) - A Python 3 implementation built on GraalVM
@@ -1275,6 +1277,7 @@ A collection of awesome things.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music DSP library written in Rust
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
