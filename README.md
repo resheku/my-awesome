@@ -501,7 +501,6 @@ A collection of awesome things.
 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [florianutz/ubuntu2004_cis](https://github.com/florianutz/ubuntu2004_cis) - Ubuntu CIS Hardening Ansible Role
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 
 ## Jupyter Notebook
 
@@ -600,6 +599,7 @@ A collection of awesome things.
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [darenasc/auto-eda](https://github.com/darenasc/auto-eda) - Automated Exploratory Data Analysis. Simplifying Data Exploration 
 - [linz/postgresql-tableversion](https://github.com/linz/postgresql-tableversion) - PostgreSQL table versioning management software
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
 - [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 
@@ -635,6 +635,7 @@ A collection of awesome things.
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+- [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [J535D165/recordlinkage](https://github.com/J535D165/recordlinkage) - A powerful and modular toolkit for record linkage and duplicate detection in Python
 - [JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser) - Flenser is a simple, minimal, automated exploratory data analysis tool.
