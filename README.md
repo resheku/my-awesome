@@ -434,7 +434,7 @@ A collection of awesome things.
 
 ## JavaScript
 
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search a website's history.
 - [ForestAdmin/lumber](https://github.com/ForestAdmin/lumber) - Install Forest Admin in minutes.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -624,6 +624,7 @@ A collection of awesome things.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [CFMTech/pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions
 - [CloverHealth/pytest-pgsql](https://github.com/CloverHealth/pytest-pgsql) - Clean PostgreSQL Databases for Your Tests
+- [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
 - [DavidJacobson/SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
