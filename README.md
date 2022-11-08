@@ -526,6 +526,7 @@ A collection of awesome things.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
 - [Dunedan/django-lockdown](https://github.com/Dunedan/django-lockdown) - Lock down a Django site or individual views, with configurable preview authorization
+- [ESSS/pytest-regressions](https://github.com/ESSS/pytest-regressions) - Pytest plugin for regression testing: https://pytest-regressions.readthedocs.io
 - [Emsu/prophet](https://github.com/Emsu/prophet) - Financial markets analysis framework for programmers
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
