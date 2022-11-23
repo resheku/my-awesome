@@ -10,7 +10,6 @@ A collection of awesome things.
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Erlang](#erlang)
 - [Gherkin](#gherkin)
 - [Go](#go)
@@ -144,10 +143,6 @@ A collection of awesome things.
 ## Dockerfile
 
 - [coreruleset/modsecurity-docker](https://github.com/coreruleset/modsecurity-docker) - The official ModSecurity Docker images
-
-## EJS
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Erlang
 
@@ -403,6 +398,7 @@ A collection of awesome things.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -504,7 +500,6 @@ A collection of awesome things.
 - [linz/postgresql-tableversion](https://github.com/linz/postgresql-tableversion) - PostgreSQL table versioning management software
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
-- [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 
 ## Perl
 
@@ -604,7 +599,7 @@ A collection of awesome things.
 - [app-generator/django-tasks-manager](https://github.com/app-generator/django-tasks-manager) - Django Tasks Manager - Simple Celery Integration | AppSeed
 - [approvals/ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - ApprovalTests for python
 - [areski/django-admin-tools-stats](https://github.com/areski/django-admin-tools-stats) - Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias
-- [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - A bookkeeping & financial analysis engine for the Django Framework. UNDER ACTIVE DEVELOPMENT & NOT STABLE YET.
+- [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - A bookkeeping & financial analysis engine for the Django Framework. UNDER ACTIVE DEVELOPMENT
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [arskom/spyne](https://github.com/arskom/spyne) - A transport agnostic sync/async RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -1273,6 +1268,7 @@ A collection of awesome things.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
+- [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
