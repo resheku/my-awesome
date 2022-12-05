@@ -414,7 +414,7 @@ A collection of awesome things.
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [sasha-alias/sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange). 
-- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Legacy project. Web-based SQL editor now in maintenance mode.
+- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [stitchfix/pyxley](https://github.com/stitchfix/pyxley) - Python helpers for building dashboards using Flask and React
