@@ -502,6 +502,7 @@ A collection of awesome things.
 - [linz/postgresql-tableversion](https://github.com/linz/postgresql-tableversion) - PostgreSQL table versioning management software
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
+- [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 
 ## Perl
 
@@ -1269,7 +1270,6 @@ A collection of awesome things.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
-- [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
