@@ -673,6 +673,7 @@ A collection of awesome things.
 - [danijar/handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [darrenburns/pytest-clarity](https://github.com/darrenburns/pytest-clarity) - A plugin to improve the output of pytest with colourful unified diffs
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [datalib/libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic
 - [datamade/parserator](https://github.com/datamade/parserator) - :bookmark: A toolkit for making domain-specific probabilistic parsers
@@ -1287,7 +1288,7 @@ A collection of awesome things.
 ## Svelte
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
 
 ## Swift
 
