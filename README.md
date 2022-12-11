@@ -384,7 +384,7 @@ A collection of awesome things.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
-- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) -  💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get Diskernet. 80s logo. Formerly 22120 (project codename)
+- [crisdosyago/DiskerNet](https://github.com/crisdosyago/DiskerNet) -  💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get DiskerNet
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [dataqa/nlp-labelling](https://github.com/dataqa/nlp-labelling) - Labelling platform for text using weak supervision.
@@ -750,8 +750,8 @@ A collection of awesome things.
 - [farhan0581/django-admin-autocomplete-filter](https://github.com/farhan0581/django-admin-autocomplete-filter) - A simple Django app to render list filters in django admin using autocomplete widget. 
 - [fcambus/dnc](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration
 - [fdw/ranger-autojump](https://github.com/fdw/ranger-autojump) - The combined magic of autojump, ranger and zsh
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [flipkart-incubator/Astra](https://github.com/flipkart-incubator/Astra) - Automated Security Testing For REST API's
-- [foxmask/joplin-web](https://github.com/foxmask/joplin-web) - :snake: :books: Web application companion for Joplin
 - [frictionlessdata/framework](https://github.com/frictionlessdata/framework) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
 - [frictionlessdata/tabulator-py](https://github.com/frictionlessdata/tabulator-py) - Python library for reading and writing tabular data via streams.
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
