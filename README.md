@@ -749,6 +749,7 @@ A collection of awesome things.
 - [farhan0581/django-admin-autocomplete-filter](https://github.com/farhan0581/django-admin-autocomplete-filter) - A simple Django app to render list filters in django admin using autocomplete widget. 
 - [fcambus/dnc](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration
 - [fdw/ranger-autojump](https://github.com/fdw/ranger-autojump) - The combined magic of autojump, ranger and zsh
+- [finalduty/cis-benchmarks-audit](https://github.com/finalduty/cis-benchmarks-audit) - Simple command line tool to check for compliance against CIS Benchmarks
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [flipkart-incubator/Astra](https://github.com/flipkart-incubator/Astra) - Automated Security Testing For REST API's
 - [frictionlessdata/framework](https://github.com/frictionlessdata/framework) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
