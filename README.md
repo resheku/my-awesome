@@ -114,7 +114,7 @@ A collection of awesome things.
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
-- [wolfpld/tracy](https://github.com/wolfpld/tracy) - C++ frame profiler
+- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free tool capable of compressing text logs and searching the compressed logs without decompression. 
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
@@ -386,11 +386,11 @@ A collection of awesome things.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
-- [crisdosyago/DiskerNet](https://github.com/crisdosyago/DiskerNet) -  💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get DiskerNet
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [dataqa/nlp-labelling](https://github.com/dataqa/nlp-labelling) - Labelling platform for text using weak supervision.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
+- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) -  💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect with Diskernet, an internet for the post-online apocalypse. Or the airplane WiFi. Or the site goes down. Or ... You get the picture. Get DiskerNet
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
 - [filamentgroup/tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
