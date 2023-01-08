@@ -335,6 +335,7 @@ A collection of awesome things.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
+- [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
