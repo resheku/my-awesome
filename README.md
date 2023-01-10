@@ -60,6 +60,7 @@ A collection of awesome things.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [googleprojectzero/halfempty](https://github.com/googleprojectzero/halfempty) - A fast, parallel test case minimization tool.
+- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [iCyberon/pg_hashids](https://github.com/iCyberon/pg_hashids) - Short unique id generator for PostgreSQL, using hashids
@@ -1195,7 +1196,7 @@ A collection of awesome things.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Lightweight, high performance, cloud native alternative to Elasticsearch.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a modern log store and analysis engine built for developers. It is a lightweight, low latency, cloud native alternative to Elastic.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
