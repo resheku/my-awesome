@@ -311,7 +311,7 @@ A collection of awesome things.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Git-like capabilities for your object storage
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | git for data
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -886,6 +886,7 @@ A collection of awesome things.
 - [martsberger/django-pivot](https://github.com/martsberger/django-pivot) - A module for pivoting Django Querysets
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
+- [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [metaperl/python-oop](https://github.com/metaperl/python-oop) - Catalog of Python object-oriented programming articles and links
