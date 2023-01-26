@@ -1019,7 +1019,7 @@ A collection of awesome things.
 - [sachin-philip/beautifier](https://github.com/sachin-philip/beautifier) - Simple library to cleanup and prettify url patterns and emails
 - [saghul/aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 - [salabim/easy_property](https://github.com/salabim/easy_property) - Intuitive way to define a Python property with getter, setter, deleter, gestter_setter and documenter decorators
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
