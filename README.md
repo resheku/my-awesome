@@ -1127,7 +1127,7 @@ A collection of awesome things.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
 - [yaroslaff/a2utils](https://github.com/yaroslaff/a2utils) - a2utils is set of linux CLI utilities to perform operations with Apache2 config files (create/configure VirtualHosts, request LetsEncrypt certificates, detect problems with LetsEncrypt verification)
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [yourlabs/django-cities-light](https://github.com/yourlabs/django-cities-light) - A simple app providing three models: Country, Region and City model. Also provided, a command to insert or update data from geonames database dumps. Status: stable.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
