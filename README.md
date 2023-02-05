@@ -1006,7 +1006,7 @@ A collection of awesome things.
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
-- [rec/safer](https://github.com/rec/safer) - 🧿 A safer writer 🧿
+- [rec/safer](https://github.com/rec/safer) - 🧷 A safer writer 🧷
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
