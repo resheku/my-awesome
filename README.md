@@ -807,7 +807,7 @@ A collection of awesome things.
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hubblestack/hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework. The project provides on-demand profile-based auditing, real-time security event notifications, alerting, and reporting. HubbleStack is a free and open source project made possible by Adobe. https://github.com/adobe
-- [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 2.7/3.X client for HashiCorp Vault
+- [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 3.X client for HashiCorp Vault
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [ianozsvald/learning_text_transformer](https://github.com/ianozsvald/learning_text_transformer) - Search 'from' and 'to' strings to learn a text cleaning mapping
