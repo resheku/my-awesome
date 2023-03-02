@@ -850,6 +850,7 @@ A collection of awesome things.
 - [jquast/blessed](https://github.com/jquast/blessed) - Blessed is an easy, practical library for making python terminal apps
 - [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot) - Converts profiling output to a dot graph.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [justiniso/polling](https://github.com/justiniso/polling) - Powerful polling utility in Python
 - [jwkvam/bowtie](https://github.com/jwkvam/bowtie) - :bowtie: Create a dashboard with python!
@@ -1005,7 +1006,7 @@ A collection of awesome things.
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
-- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - Create highly interactive web pages purely in Python
+- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) -  Reactive user interfaces with pure Python 
 - [rec/safer](https://github.com/rec/safer) - 🧷 A safer writer 🧷
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
