@@ -437,6 +437,7 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [RasaHQ/rasalit](https://github.com/RasaHQ/rasalit) - Visualizations and helpers to improve and debug machine learning models for Rasa Open Source
 - [TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
