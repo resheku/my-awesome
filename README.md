@@ -234,6 +234,7 @@ A collection of awesome things.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - Create inlets servers on the top cloud platforms
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [intenthq/anon](https://github.com/intenthq/anon) - A UNIX Command To Anonymise Data
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -578,7 +579,6 @@ A collection of awesome things.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
-- [TriOptima/iommi](https://github.com/TriOptima/iommi) - Your first pick for a django power cord
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
 - [YoSmudge/dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
 - [aaugustin/django-c10k-demo](https://github.com/aaugustin/django-c10k-demo) - 10 000 concurrent real-time connections to Django [UNMAINTAINED]
@@ -820,6 +820,7 @@ A collection of awesome things.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [inueni/django-subadmin](https://github.com/inueni/django-subadmin) - A special kind of ModelAdmin that allows it to be nested within another ModelAdmin 
+- [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit. 
