@@ -345,7 +345,6 @@ A collection of awesome things.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
-- [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
@@ -815,7 +814,7 @@ A collection of awesome things.
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [ianozsvald/learning_text_transformer](https://github.com/ianozsvald/learning_text_transformer) - Search 'from' and 'to' strings to learn a text cleaning mapping
 - [ianozsvald/learning_text_transformer_demo](https://github.com/ianozsvald/learning_text_transformer_demo) - Demo code for learning_text_transformer
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python at any scale.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [incuna/django-pgcrypto-fields](https://github.com/incuna/django-pgcrypto-fields) - Transparent field level encryption for Django using the pgcrypto postgresql extension.
@@ -829,6 +828,7 @@ A collection of awesome things.
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [jacebrowning/template-python](https://github.com/jacebrowning/template-python) - A template for new Python libraries.
+- [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [jaybaird/python-bloomfilter](https://github.com/jaybaird/python-bloomfilter) - Scalable Bloom Filter implemented in Python
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [jazzband/django-hosts](https://github.com/jazzband/django-hosts) - Dynamic and static host resolving for Django. Maps hostnames to URLconfs.
@@ -1456,6 +1456,7 @@ A collection of awesome things.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) -  Kubernetes clusters for the hobbyist.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox) - Bypass Paywalls for Firefox
+- [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [jaraco/skeleton](https://github.com/jaraco/skeleton) - A generic project skeleton for Python projects.
