@@ -36,6 +36,7 @@ A collection of awesome things.
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Sass](#sass)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
@@ -426,6 +427,7 @@ A collection of awesome things.
 - [regebro/hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [sasha-alias/sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – 
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange). 
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
@@ -465,6 +467,7 @@ A collection of awesome things.
 
 ## Lua
 
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
@@ -1227,8 +1230,9 @@ A collection of awesome things.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a lightweight log observability system written in Rust. It is built for cloud native environments.
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
@@ -1252,6 +1256,10 @@ A collection of awesome things.
 ## Sass
 
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
+
+## Scala
+
+- [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 
 ## Shell
 
@@ -1361,8 +1369,8 @@ A collection of awesome things.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
