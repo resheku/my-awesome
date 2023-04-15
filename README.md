@@ -583,7 +583,6 @@ A collection of awesome things.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
-- [Slimmer-AI/mpire](https://github.com/Slimmer-AI/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
@@ -1089,6 +1088,7 @@ A collection of awesome things.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
+- [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 - [taminomara/psql-hooks](https://github.com/taminomara/psql-hooks) - Unofficial documentation for PostgreSQL hooks
 - [target/matrixprofile-ts](https://github.com/target/matrixprofile-ts) - A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
