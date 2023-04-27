@@ -1187,6 +1187,7 @@ A collection of awesome things.
 - [johnl/news-sniffer](https://github.com/johnl/news-sniffer) - A project that watches news media webpages for changes in news articles
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [mizzy/serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
+- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure. 
 - [tobymao/18xx](https://github.com/tobymao/18xx) - A platform for playing 18xx games online!
 
