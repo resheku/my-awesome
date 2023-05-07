@@ -624,7 +624,7 @@ A collection of awesome things.
 - [app-generator/django-tasks-manager](https://github.com/app-generator/django-tasks-manager) - Django Tasks Manager - Simple Celery Integration | AppSeed
 - [approvals/ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - ApprovalTests for python
 - [areski/django-admin-tools-stats](https://github.com/areski/django-admin-tools-stats) - Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias
-- [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - A bookkeeping & financial analysis engine for the Django Framework. UNDER ACTIVE DEVELOPMENT
+- [arrobalytics/django-ledger](https://github.com/arrobalytics/django-ledger) - A bookkeeping & financial analysis engine for the Django Framework.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [arskom/spyne](https://github.com/arskom/spyne) - A transport agnostic sync/async RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
