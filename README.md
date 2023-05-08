@@ -967,7 +967,7 @@ A collection of awesome things.
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications. 
-- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
