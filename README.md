@@ -969,7 +969,7 @@ A collection of awesome things.
 - [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications. 
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
-- [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
+- [pantsbuild/pex](https://github.com/pantsbuild/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [peopledoc/pylogctx](https://github.com/peopledoc/pylogctx) - :snake: Inject extra fields to each log records
@@ -1233,6 +1233,7 @@ A collection of awesome things.
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [meli/meli](https://github.com/meli/meli) - 🐝 experimental terminal mail client, mirror of https://git.meli.delivery/meli/meli.git https://crates.io/crates/meli
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
@@ -1269,6 +1270,7 @@ A collection of awesome things.
 
 ## Shell
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - 💻 My dot files shared between machines.
