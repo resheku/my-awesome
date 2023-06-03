@@ -472,7 +472,7 @@ A collection of awesome things.
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
@@ -751,7 +751,6 @@ A collection of awesome things.
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
-- [epiphany-platform/epiphany](https://github.com/epiphany-platform/epiphany) - Cloud and on-premises automation for Kubernetes centered industrial grade solutions.
 - [erdewit/distex](https://github.com/erdewit/distex) - Distributed process pool for Python
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
 - [erinxocon/requests-xml](https://github.com/erinxocon/requests-xml) - Requests-XML: XML Parsing for Humans
@@ -821,6 +820,7 @@ A collection of awesome things.
 - [hauxir/errorpush](https://github.com/hauxir/errorpush) - Minimalist Error collection Service compatible with Rollbar clients. Sentry or Rollbar alternative.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line 
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
+- [hitachienergy/epiphany](https://github.com/hitachienergy/epiphany) - Cloud and on-premises automation for Kubernetes centered industrial grade solutions.
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
