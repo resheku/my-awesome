@@ -878,7 +878,7 @@ A collection of awesome things.
 - [jwkvam/bowtie](https://github.com/jwkvam/bowtie) - :bowtie: Create a dashboard with python!
 - [jwodder/wheelodex](https://github.com/jwodder/wheelodex) - An index of wheels
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [khamidou/lptrace](https://github.com/khamidou/lptrace) - Trace any Python program, anywhere!
