@@ -313,7 +313,7 @@ A collection of awesome things.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [sylabs/singularity-cri](https://github.com/sylabs/singularity-cri) - The Singularity implementation of the Kubernetes Container Runtime Interface
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [tableflowhq/inquery](https://github.com/tableflowhq/inquery) - Superpowers for PostgreSQL
+- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [tcnksm/go-input](https://github.com/tcnksm/go-input) - Go package for ideal tty prompt
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
