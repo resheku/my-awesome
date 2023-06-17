@@ -422,6 +422,7 @@ A collection of awesome things.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mito-ds/monorepo](https://github.com/mito-ds/monorepo) - The mitosheet package, trymito.io, and other public Mito code.
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
@@ -930,7 +931,6 @@ A collection of awesome things.
 - [mining/mining](https://github.com/mining/mining) - Business Intelligence (BI) in Python, OLAP
 - [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [mito-ds/monorepo](https://github.com/mito-ds/monorepo) - The mitosheet package, trymito.io, and other public Mito code.
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR) - Take lightning fast snapshots of your local Postgres databases.
 - [miyakogi/syncer](https://github.com/miyakogi/syncer) - Async to sync converter
