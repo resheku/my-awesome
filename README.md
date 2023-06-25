@@ -3,7 +3,8 @@
 A collection of awesome things.
 
 - [C](#c)
-- [C++](#c-1)
+- [C#](#c-1)
+- [C++](#c-2)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -93,6 +94,10 @@ A collection of awesome things.
 - [varnish/hitch](https://github.com/varnish/hitch) - A scalable TLS proxy by Varnish Software.
 - [xflows/rdm](https://github.com/xflows/rdm) - Relational data mining in python
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
+
+## C#
+
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 
 ## C++
 
