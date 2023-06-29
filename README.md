@@ -10,6 +10,7 @@ A collection of awesome things.
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
 - [Gherkin](#gherkin)
@@ -154,6 +155,10 @@ A collection of awesome things.
 ## Crystal
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+
+## Dart
+
+- [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 
 ## Dockerfile
 
