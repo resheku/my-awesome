@@ -486,7 +486,6 @@ A collection of awesome things.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
@@ -1001,6 +1000,7 @@ A collection of awesome things.
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [plainas/icl](https://github.com/plainas/icl) - An interactive memory aid for one-liners
+- [platisd/duplicate-code-detection-tool](https://github.com/platisd/duplicate-code-detection-tool) - A simple Python3 tool to detect similarities between files within a repository
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [powa-team/powa-web](https://github.com/powa-team/powa-web) - PoWA user interface
@@ -1293,6 +1293,7 @@ A collection of awesome things.
 
 ## Scala
 
+- [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 
 ## Shell
@@ -1457,6 +1458,7 @@ A collection of awesome things.
 ## Vim Script
 
 - [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide) - VIM configured as powerful IDE (Integrated Development Environment)
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) - Nim plugin for NeoVim
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim. 
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
