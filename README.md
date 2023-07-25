@@ -565,7 +565,7 @@ A collection of awesome things.
 - [CFMTech/pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions
 - [CloverHealth/pytest-pgsql](https://github.com/CloverHealth/pytest-pgsql) - Clean PostgreSQL Databases for Your Tests
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
-- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - Light-weight Python OLAP framework for multi-dimensional data analysis
+- [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [DavidJacobson/SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
@@ -949,7 +949,7 @@ A collection of awesome things.
 - [mining/mining](https://github.com/mining/mining) - Business Intelligence (BI) in Python, OLAP
 - [miso-belica/jusText](https://github.com/miso-belica/jusText) - Heuristic based boilerplate removal tool
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [mito-ds/monorepo](https://github.com/mito-ds/monorepo) - The mitosheet package, trymito.io, and other public Mito code.
+- [mito-ds/mito](https://github.com/mito-ds/mito) - The mitosheet package, trymito.io, and other public Mito code.
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR) - Take lightning fast snapshots of your local Postgres databases.
 - [miyakogi/syncer](https://github.com/miyakogi/syncer) - Async to sync converter
@@ -1411,7 +1411,7 @@ A collection of awesome things.
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. 
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
-- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
