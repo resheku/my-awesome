@@ -231,7 +231,7 @@ A collection of awesome things.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -620,6 +620,7 @@ A collection of awesome things.
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [ahawker/ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3
+- [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
 - [airbnb/binaryalert](https://github.com/airbnb/binaryalert) - BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
@@ -798,6 +799,7 @@ A collection of awesome things.
 - [finalduty/cis-benchmarks-audit](https://github.com/finalduty/cis-benchmarks-audit) - Simple command line tool to check for compliance against CIS Benchmarks
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [flipkart-incubator/Astra](https://github.com/flipkart-incubator/Astra) - Automated Security Testing For REST API's
+- [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse) - Consume Server-Sent Event (SSE) messages with HTTPX
 - [frictionlessdata/frictionless-py](https://github.com/frictionlessdata/frictionless-py) - Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data
 - [frictionlessdata/tabulator-py](https://github.com/frictionlessdata/tabulator-py) - Python library for reading and writing tabular data via streams.
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
@@ -829,7 +831,7 @@ A collection of awesome things.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [google/textfsm](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [gregs1104/pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
@@ -1250,7 +1252,7 @@ A collection of awesome things.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
-- [cnpryer/huak](https://github.com/cnpryer/huak) - 📦 A Python package manager written in Rust inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - [poc] A Python package manager written in Rust inspired by Cargo.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -1489,6 +1491,7 @@ A collection of awesome things.
 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+- [streamsync-cloud/streamsync](https://github.com/streamsync-cloud/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 
 ## Misc
 
