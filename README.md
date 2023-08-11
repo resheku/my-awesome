@@ -581,7 +581,7 @@ A collection of awesome things.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [J535D165/recordlinkage](https://github.com/J535D165/recordlinkage) - A powerful and modular toolkit for record linkage and duplicate detection in Python
 - [JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser) - Flenser is a simple, minimal, automated exploratory data analysis tool.
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [Kwpolska/merge_args](https://github.com/Kwpolska/merge_args) - Merge signatures of two functions with Advanced Hackery.
 - [LeapBeyond/scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text.
 - [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the awesome walrus operator
