@@ -820,7 +820,7 @@ A collection of awesome things.
 - [geoalchemy/geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
 - [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [geopy/geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
-- [getcodelimit/codelimit](https://github.com/getcodelimit/codelimit) - Your Refactoring Alarm
+- [getcodelimit/codelimit](https://github.com/getcodelimit/codelimit) - Your Refactoring Alarm ⏰
 - [getlogbook/logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
