@@ -25,7 +25,6 @@ A collection of awesome things.
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -501,10 +500,6 @@ A collection of awesome things.
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
 
-## MDX
-
-- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-
 ## Makefile
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -703,7 +698,7 @@ A collection of awesome things.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
@@ -882,6 +877,7 @@ A collection of awesome things.
 - [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects) - chained and grouped selects for django forms
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [jcampbell05/volcano](https://github.com/jcampbell05/volcano) - A programming language which compiles to shell
 - [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
@@ -1438,6 +1434,7 @@ A collection of awesome things.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
