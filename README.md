@@ -612,6 +612,7 @@ A collection of awesome things.
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
@@ -926,6 +927,7 @@ A collection of awesome things.
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. 
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
+- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [kristovatlas/osx-config-check](https://github.com/kristovatlas/osx-config-check) - Verify the configuration of your OS X machine.
 - [kvesteri/sqlalchemy-continuum](https://github.com/kvesteri/sqlalchemy-continuum) - Versioning extension for SQLAlchemy.
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
@@ -1193,6 +1195,7 @@ A collection of awesome things.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [vladbalmos/mitzasql](https://github.com/vladbalmos/mitzasql) - MySQL command line / text based interface client
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
+- [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [wemake-services/dotenv-linter](https://github.com/wemake-services/dotenv-linter) - :relaxed: Linting dotenv files like a charm!
