@@ -433,7 +433,7 @@ A collection of awesome things.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [dataqa/nlp-labelling](https://github.com/dataqa/nlp-labelling) - Labelling platform for text using weak supervision.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) -  💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history.
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) -  💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
 - [filamentgroup/tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
@@ -587,7 +587,6 @@ A collection of awesome things.
 - [ESSS/pytest-regressions](https://github.com/ESSS/pytest-regressions) - Pytest plugin for regression testing: https://pytest-regressions.readthedocs.io
 - [Emsu/prophet](https://github.com/Emsu/prophet) - Financial markets analysis framework for programmers
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
-- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
@@ -613,6 +612,7 @@ A collection of awesome things.
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
+- [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - Reporting engine for Django, Create dashboards, reports and charts effectively and effortlessly.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
@@ -1053,6 +1053,7 @@ A collection of awesome things.
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [pyeve/events](https://github.com/pyeve/events) - Python Event Handling the C# Style
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor
 - [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
@@ -1081,7 +1082,6 @@ A collection of awesome things.
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
-- [ra-systems/django-slick-reporting](https://github.com/ra-systems/django-slick-reporting) - Powerful and Efficient reporting engine with Charting capabilities
 - [rabbitmq/tls-gen](https://github.com/rabbitmq/tls-gen) - Generates self-signed x509/TLS/SSL certificates useful for development
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [raphaelm/django-scopes](https://github.com/raphaelm/django-scopes) - Safely separate multiple tenants in a Django database
@@ -1283,7 +1283,7 @@ A collection of awesome things.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
-- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
