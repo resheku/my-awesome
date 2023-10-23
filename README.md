@@ -1611,7 +1611,7 @@ A collection of awesome things.
 - [trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with :octocat: :star: and :fork_and_knife:
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
-- [underlines/awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Curated list of useful LLM / Analytics / Datascience resources
+- [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
 - [vegasbrianc/docker-traefik-prometheus](https://github.com/vegasbrianc/docker-traefik-prometheus) - A Docker Swarm Stack for monitoring Traefik with Promethues and Grafana
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
