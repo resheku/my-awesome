@@ -493,7 +493,7 @@ A collection of awesome things.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
 - [mbernico/CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
 - [mhansen/profilerpedia](https://github.com/mhansen/profilerpedia) - Catalog of profilers, profile data formats, data format converters, and profile analysis UIs.
-- [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + Jupyter notebooks made easy
+- [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + shell_plus + Jupyter notebooks made easy.
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
