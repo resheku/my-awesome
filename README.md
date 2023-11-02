@@ -342,7 +342,6 @@ A collection of awesome things.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [sylabs/singularity-cri](https://github.com/sylabs/singularity-cri) - The Singularity implementation of the Kubernetes Container Runtime Interface
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [tcnksm/go-input](https://github.com/tcnksm/go-input) - Go package for ideal tty prompt
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -539,7 +538,7 @@ A collection of awesome things.
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C
 
@@ -588,6 +587,7 @@ A collection of awesome things.
 - [CFMTech/pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions
 - [CloverHealth/pytest-pgsql](https://github.com/CloverHealth/pytest-pgsql) - Clean PostgreSQL Databases for Your Tests
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
+- [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [DavidJacobson/SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -1101,7 +1101,6 @@ A collection of awesome things.
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
@@ -1130,6 +1129,7 @@ A collection of awesome things.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [selectel/pyte](https://github.com/selectel/pyte) - Simple VTXXX-compatible linux terminal emulator
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [shamanu4/dal_admin_filters](https://github.com/shamanu4/dal_admin_filters) - Django autocomplete light filters for django admin
 - [shangxiao/django-db-constraints](https://github.com/shangxiao/django-db-constraints) - Add database table-level constraints to your Django model's Meta
 - [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions.
@@ -1507,6 +1507,7 @@ A collection of awesome things.
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
+- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [theodo/falco](https://github.com/theodo/falco) - Falco helps you monitor, analyze, and optimize your websites.
