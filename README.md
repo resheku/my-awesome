@@ -577,6 +577,7 @@ A collection of awesome things.
 
 - [3digitdev/Haiku-TTP-Codes](https://github.com/3digitdev/Haiku-TTP-Codes) - HTTP Status Codes with Haikus for messages
 - [APrioriInvestments/typed_python](https://github.com/APrioriInvestments/typed_python) - An llvm-based framework for generating and calling into high-performance native code from Python.
+- [Akrog/pinliner](https://github.com/Akrog/pinliner) - Python Inliner merges in a single file all files from a Python package.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [AlignmentResearch/tuned-lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer
