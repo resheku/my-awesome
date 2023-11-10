@@ -1292,7 +1292,7 @@ A collection of awesome things.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [asimihsan/cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [aswinnnn/pyscan](https://github.com/aswinnnn/pyscan) - Discover security issues in Python projects.
+- [aswinnnn/pyscan](https://github.com/aswinnnn/pyscan) - python dependency vulnerability scanner, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
