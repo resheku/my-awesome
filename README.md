@@ -312,7 +312,6 @@ A collection of awesome things.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [pglet/pglet](https://github.com/pglet/pglet) - Pglet - build internal web apps quickly in the language you already know!
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -1174,7 +1173,7 @@ A collection of awesome things.
 - [target/matrixprofile-ts](https://github.com/target/matrixprofile-ts) - A Python library for detecting patterns and anomalies in massive datasets using the Matrix Profile
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The DuckDB IDE for Your Terminal.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [tefra/xsdata](https://github.com/tefra/xsdata) - Naive XML & JSON Bindings for python
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
@@ -1506,6 +1505,7 @@ A collection of awesome things.
 - [okld/streamlit-pandas-profiling](https://github.com/okld/streamlit-pandas-profiling) - Pandas profiling component for Streamlit.
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [pypi-data/website](https://github.com/pypi-data/website) - 
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
