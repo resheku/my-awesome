@@ -312,7 +312,6 @@ A collection of awesome things.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [pglet/pglet](https://github.com/pglet/pglet) - Pglet - build internal web apps quickly in the language you already know!
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -774,7 +773,6 @@ A collection of awesome things.
 - [dhondta/python-codext](https://github.com/dhondta/python-codext) - Python codecs extension featuring CLI tools for encoding/decoding anything
 - [django-admin-tools/django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Extends the Django Admin to include a extensible dashboard and navigation menu
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework. 
-- [django-polymorphic/django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Improved Django model inheritance with automatic downcasting
 - [django-waffle/django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
@@ -908,6 +906,7 @@ A collection of awesome things.
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [jazzband/django-hosts](https://github.com/jazzband/django-hosts) - Dynamic and static host resolving for Django. Maps hostnames to URLconfs.
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+- [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
 - [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects) - chained and grouped selects for django forms
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
@@ -1506,6 +1505,7 @@ A collection of awesome things.
 - [okld/streamlit-pandas-profiling](https://github.com/okld/streamlit-pandas-profiling) - Pandas profiling component for Streamlit.
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [pypi-data/website](https://github.com/pypi-data/website) - 
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
