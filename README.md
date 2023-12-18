@@ -225,6 +225,7 @@ A collection of awesome things.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
+- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
