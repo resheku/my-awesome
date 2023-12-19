@@ -484,7 +484,7 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
-- [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Your single tool to express data, ML, and LLM pipelines with simple python functions. Runs anywhere that python runs, E.G. spark, airflow, jupyter, fastapi, etc. Incrementally adoptable. Use Hamilton to build testable, reusable, and self-documenting dataflows with lineage and metadata out of the box.
+- [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage and metadata. Runs and scales everywhere python does.
 - [RasaHQ/rasalit](https://github.com/RasaHQ/rasalit) - Visualizations and helpers to improve and debug machine learning models for Rasa Open Source
 - [TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
@@ -501,7 +501,7 @@ A collection of awesome things.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + shell_plus + Jupyter notebooks made easy.
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 AI-Powered Database Queries 📊. Accurate Text-to-SQL Conversion using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate SQL Generation via LLMs using RAG 🔄.
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## Kotlin
@@ -1524,7 +1524,7 @@ A collection of awesome things.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A next-generation Python notebook: explore data, build tools, deploy apps!
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive Python notebook with built-in UI elements: reproducible, git-friendly, & deployable!
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
