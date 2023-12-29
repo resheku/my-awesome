@@ -119,7 +119,6 @@ A collection of awesome things.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [maxbachmann/RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
@@ -127,6 +126,7 @@ A collection of awesome things.
 - [plasma-umass/Mesh](https://github.com/plasma-umass/Mesh) - A memory allocator that automatically reduces the memory footprint of C/C++ applications.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
+- [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [sakura-editor/sakura](https://github.com/sakura-editor/sakura) - SAKURA Editor (Japanese text editor for MS Windows)
 - [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
@@ -293,7 +293,7 @@ A collection of awesome things.
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [mkouhei/gosh](https://github.com/mkouhei/gosh) - interactive shell for Golang
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
