@@ -135,6 +135,7 @@ A collection of awesome things.
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free tool capable of compressing text logs and searching the compressed logs without decompression. 
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -546,6 +547,7 @@ A collection of awesome things.
 ## OCaml
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C
@@ -744,7 +746,6 @@ A collection of awesome things.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
@@ -838,7 +839,6 @@ A collection of awesome things.
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [facebookincubator/Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
@@ -994,6 +994,7 @@ A collection of awesome things.
 - [martsberger/django-pivot](https://github.com/martsberger/django-pivot) - A module for pivoting Django Querysets
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [mbusb/multibootusb](https://github.com/mbusb/multibootusb) - Create multiboot live Linux on a USB disk...
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications.
@@ -1432,7 +1433,6 @@ A collection of awesome things.
 - [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [mattgreen/lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [mherrmann/sentry-self-hosted](https://github.com/mherrmann/sentry-self-hosted) - Self-host Sentry for $5 per month
 - [mpereira/macbook-playbook](https://github.com/mpereira/macbook-playbook) - Install all your applications and configure everything the way you like it with one command
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
@@ -1518,6 +1518,7 @@ A collection of awesome things.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
