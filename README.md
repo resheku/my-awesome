@@ -139,6 +139,7 @@ A collection of awesome things.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free tool capable of compressing text logs and searching the compressed logs without decompression. 
+- [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
 ## CSS
@@ -1139,6 +1140,7 @@ A collection of awesome things.
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 - [ronf/asyncssh](https://github.com/ronf/asyncssh) - AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework.
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [rstojnic/lazydata](https://github.com/rstojnic/lazydata) - Lazydata: Scalable data dependencies for Python projects
