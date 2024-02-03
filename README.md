@@ -253,6 +253,7 @@ A collection of awesome things.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -430,7 +431,7 @@ A collection of awesome things.
 - [paulfitz/daff](https://github.com/paulfitz/daff) - align and compare tables
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [webanno/webanno](https://github.com/webanno/webanno) - 🆕 Work continues on INCEpTION 👉 https://github.com/inception-project/inception 👈 -- ⚠️ The official WebAnno repository has reached the end of the line. -- 🚀 To migrate, export your annotation projects from WebAnno, then import them into INCEpTION and just work on.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 
@@ -1378,6 +1379,7 @@ A collection of awesome things.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
