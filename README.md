@@ -730,6 +730,7 @@ A collection of awesome things.
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [byashimov/django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
+- [bytewax/hacking-hacker-news](https://github.com/bytewax/hacking-hacker-news) - Analyzing hacker news in real-time with Bytewax and Proton
 - [cak/secure](https://github.com/cak/secure) - Secure 🔒  headers for Python web frameworks
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
