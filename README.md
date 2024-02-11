@@ -1075,11 +1075,11 @@ A collection of awesome things.
 - [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications. 
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
-- [pantsbuild/pex](https://github.com/pantsbuild/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [peopledoc/pylogctx](https://github.com/peopledoc/pylogctx) - :snake: Inject extra fields to each log records
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
+- [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [plainas/icl](https://github.com/plainas/icl) - An interactive memory aid for one-liners
