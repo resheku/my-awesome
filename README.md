@@ -517,7 +517,6 @@ A collection of awesome things.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + shell_plus + Jupyter notebooks made easy.
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## Kotlin
@@ -1248,6 +1247,7 @@ A collection of awesome things.
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [videoflow/videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
@@ -1539,7 +1539,7 @@ A collection of awesome things.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -1638,7 +1638,7 @@ A collection of awesome things.
 - [VPashkov/awesome-nim](https://github.com/VPashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [arogozhnikov/python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
