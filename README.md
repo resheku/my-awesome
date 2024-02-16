@@ -116,6 +116,7 @@ A collection of awesome things.
 
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse 
 - [cmu-db/noisepage](https://github.com/cmu-db/noisepage) - Self-Driving Database Management System from Carnegie Mellon University
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -526,7 +527,7 @@ A collection of awesome things.
 ## Lua
 
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
@@ -947,7 +948,7 @@ A collection of awesome things.
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [jd/pifpaf](https://github.com/jd/pifpaf) - Python fixtures and daemon managing tools for functional testing
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
-- [jgujerry/pythonframeworks](https://github.com/jgujerry/pythonframeworks) - Another curated list of Python frameworks
+- [jgujerry/python-frameworks](https://github.com/jgujerry/python-frameworks) - Another curated list of Python frameworks
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [jllorencetti/pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - Plugin to list unused fixtures in your tests
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
@@ -1215,6 +1216,7 @@ A collection of awesome things.
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [textX/textX](https://github.com/textX/textX) - Domain-Specific Languages and parsers in Python made easy http://textx.github.io/textX/
+- [theOGognf/finagg](https://github.com/theOGognf/finagg) - A Python package for aggregating historical data from popular and free financial APIs, and for transforming that data into features for AI/ML.
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
