@@ -895,6 +895,7 @@ A collection of awesome things.
 - [google/macops](https://github.com/google/macops) - Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [google/temporian](https://github.com/google/temporian) - Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖
 - [google/textfsm](https://github.com/google/textfsm) - Python module for parsing semi-structured text into python tables.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1285,6 +1286,7 @@ A collection of awesome things.
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in Google BigQuery.
 - [zanellia/prometeo](https://github.com/zanellia/prometeo) - An experimental Python-to-C transpiler and domain specific language for embedded high-performance computing
 - [zestyping/q](https://github.com/zestyping/q) - Quick and dirty debugging output for tired programmers. ⛺
+- [zmievsa/pytest-fixture-classes](https://github.com/zmievsa/pytest-fixture-classes) - Fixtures as classes that work well with dependency injection, autocompletetion, type checkers, and language servers
 - [zopefoundation/zope.component](https://github.com/zopefoundation/zope.component) - 
 - [zopefoundation/zope.interface](https://github.com/zopefoundation/zope.interface) - Interfaces for Python
 - [zqqqqz2000/shshsh](https://github.com/zqqqqz2000/shshsh) - a bridge between python and shell
@@ -1348,7 +1350,7 @@ A collection of awesome things.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
