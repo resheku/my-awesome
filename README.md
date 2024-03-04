@@ -1575,7 +1575,7 @@ A collection of awesome things.
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [pypi-data/website](https://github.com/pypi-data/website) - 
+- [pypi-data/website](https://github.com/pypi-data/website) - next.js website powering https://py-code.org/
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
