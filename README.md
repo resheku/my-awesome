@@ -984,6 +984,7 @@ A collection of awesome things.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [lamby/django-lint](https://github.com/lamby/django-lint) - Tool to lint Django applications and projects
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
@@ -1219,7 +1220,7 @@ A collection of awesome things.
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [textX/textX](https://github.com/textX/textX) - Domain-Specific Languages and parsers in Python made easy http://textx.github.io/textX/
-- [theOGognf/finagg](https://github.com/theOGognf/finagg) - A Python package for aggregating historical data from popular and free financial APIs, and for transforming that data into features for AI/ML.
+- [theOGognf/finagg](https://github.com/theOGognf/finagg) - A Python package for aggregating and normalizing historical data from popular and free financial APIs.
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
