@@ -74,7 +74,6 @@ A collection of awesome things.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [googleprojectzero/halfempty](https://github.com/googleprojectzero/halfempty) - A fast, parallel test case minimization tool.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -719,6 +718,7 @@ A collection of awesome things.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [avast/pytest-docker](https://github.com/avast/pytest-docker) - Docker-based integration tests
 - [avian2/unidecode](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text - GitHub mirror
+- [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [awslabs/gluonts](https://github.com/awslabs/gluonts) - Probabilistic time series modeling in Python
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [bdarnell/plop](https://github.com/bdarnell/plop) - Python Low-Overhead Profiler
@@ -1367,6 +1367,7 @@ A collection of awesome things.
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data platform for building, deploying and maintaining data products.
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [grapl-security/grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and Response
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
