@@ -28,6 +28,7 @@ A collection of awesome things.
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mojo](#mojo)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -551,6 +552,10 @@ A collection of awesome things.
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mojo
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## Nim
 
 - [PMunch/nimcr](https://github.com/PMunch/nimcr) - 
@@ -729,7 +734,7 @@ A collection of awesome things.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-- [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython 3.11's specializing, adaptive interpreter. :fire:
+- [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython's specializing, adaptive interpreter. :fire:
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [btwael/superstring.py](https://github.com/btwael/superstring.py) - A fast and memory-optimized string library for heavy-text manipulation in Python
@@ -1690,7 +1695,6 @@ A collection of awesome things.
 - [lknik/gdpr](https://github.com/lknik/gdpr) - 
 - [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
