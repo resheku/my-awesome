@@ -994,7 +994,6 @@ A collection of awesome things.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [lamby/django-lint](https://github.com/lamby/django-lint) - Tool to lint Django applications and projects
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -1014,6 +1013,7 @@ A collection of awesome things.
 - [madflojo/automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [manumerous/vpselector](https://github.com/manumerous/vpselector) - Visual Pandas Selector: Visualize and interactively select time-series data
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [martsberger/django-pivot](https://github.com/martsberger/django-pivot) - A module for pivoting Django Querysets
@@ -1389,7 +1389,7 @@ A collection of awesome things.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases. 
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a log analytics system platform for modern, cloud native workloads
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
@@ -1574,11 +1574,11 @@ A collection of awesome things.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
