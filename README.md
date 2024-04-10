@@ -285,7 +285,7 @@ A collection of awesome things.
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
@@ -994,6 +994,7 @@ A collection of awesome things.
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [lamby/django-lint](https://github.com/lamby/django-lint) - Tool to lint Django applications and projects
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -1183,7 +1184,6 @@ A collection of awesome things.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [selectel/pyte](https://github.com/selectel/pyte) - Simple VTXXX-compatible linux terminal emulator
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [shamanu4/dal_admin_filters](https://github.com/shamanu4/dal_admin_filters) - Django autocomplete light filters for django admin
 - [shangxiao/django-db-constraints](https://github.com/shangxiao/django-db-constraints) - Add database table-level constraints to your Django model's Meta
 - [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions.
@@ -1574,7 +1574,6 @@ A collection of awesome things.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
