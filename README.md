@@ -1447,7 +1447,7 @@ A collection of awesome things.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [bkuhlmann/mac_os](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated macOS machine setup.
-- [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup and configuration.
+- [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
 - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
 - [bruj0/vault_jenkins](https://github.com/bruj0/vault_jenkins) - How to use Vault to store secrets and use them in Jenkins
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
