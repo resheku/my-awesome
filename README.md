@@ -1175,7 +1175,7 @@ A collection of awesome things.
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [scientific-python/cookie](https://github.com/scientific-python/cookie) - Scientific Python Library Development Guide and Cookiecutter
 - [sclabs/treeshaker](https://github.com/sclabs/treeshaker) - A tree-shaking tool for Python.
 - [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
