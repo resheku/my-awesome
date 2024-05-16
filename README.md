@@ -331,6 +331,7 @@ A collection of awesome things.
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [pglet/pglet](https://github.com/pglet/pglet) - Pglet - build internal web apps quickly in the language you already know!
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [project-stacker/stacker](https://github.com/project-stacker/stacker) - Build OCI images natively from a declarative format
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -833,7 +834,6 @@ A collection of awesome things.
 - [dovpanda-dev/dovpanda](https://github.com/dovpanda-dev/dovpanda) - Directions overlay for working with pandas in an analysis environment
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [drgarcia1986/simple-settings](https://github.com/drgarcia1986/simple-settings) - A simple way to manage your project settings.
-- [drifting-in-space/botsh](https://github.com/drifting-in-space/botsh) - An LLM-based agent that will install the tools it needs.
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [dternyak/molten-boilerplate](https://github.com/dternyak/molten-boilerplate) - A boilerplate for the molten framework by Bogdanp                  https://github.com/Bogdanp/molten
@@ -946,6 +946,7 @@ A collection of awesome things.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [jacebrowning/template-python](https://github.com/jacebrowning/template-python) - My template for new Python libraries.
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
+- [jamsocket/botsh](https://github.com/jamsocket/botsh) - An LLM-based agent that will install the tools it needs.
 - [jaybaird/python-bloomfilter](https://github.com/jaybaird/python-bloomfilter) - Scalable Bloom Filter implemented in Python
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [jazzband/django-hosts](https://github.com/jazzband/django-hosts) - Dynamic and static host resolving for Django. Maps hostnames to URLconfs.
@@ -1558,7 +1559,7 @@ A collection of awesome things.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
