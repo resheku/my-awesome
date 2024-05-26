@@ -142,7 +142,7 @@ A collection of awesome things.
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
-- [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free tool capable of compressing text logs and searching the compressed logs without decompression. 
+- [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free log management tool capable of compressing text logs and searching the compressed logs without decompression.
 - [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
@@ -291,6 +291,7 @@ A collection of awesome things.
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH &lt; 1 minute
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
@@ -1418,7 +1419,7 @@ A collection of awesome things.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
 ## SCSS
