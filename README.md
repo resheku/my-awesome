@@ -117,7 +117,7 @@ A collection of awesome things.
 
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
-- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse 
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
 - [cmu-db/noisepage](https://github.com/cmu-db/noisepage) - Self-Driving Database Management System from Carnegie Mellon University
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
