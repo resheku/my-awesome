@@ -235,7 +235,7 @@ A collection of awesome things.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
@@ -689,7 +689,7 @@ A collection of awesome things.
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [adamchainz/flake8-logging](https://github.com/adamchainz/flake8-logging) - A Flake8 plugin that checks for issues using the standard library logging module.
 - [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn) - The magical reactive component framework for Django ✨
-- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: Crawling & scraping, content extraction, metadata. TXT, Markdown, CSV & XML output.
 - [adipandas/multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
@@ -1293,7 +1293,7 @@ A collection of awesome things.
 - [wolever/pip2pi](https://github.com/wolever/pip2pi) - pip2pi builds a PyPI-compatible package repository from pip requirements
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [xavdid/universal-test-runner](https://github.com/xavdid/universal-test-runner) - A language-agnostic, zero-configuration test invoker
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
