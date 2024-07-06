@@ -995,6 +995,7 @@ A collection of awesome things.
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [khamidou/lptrace](https://github.com/khamidou/lptrace) - Trace any Python program, anywhere!
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kkinder/puepy](https://github.com/kkinder/puepy) - Python+Webassembly Frontend Framework via PyScript
 - [klen/mixer](https://github.com/klen/mixer) - Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. 
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
