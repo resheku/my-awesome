@@ -620,7 +620,6 @@ A collection of awesome things.
 - [APrioriInvestments/typed_python](https://github.com/APrioriInvestments/typed_python) - An llvm-based framework for generating and calling into high-performance native code from Python.
 - [Akrog/pinliner](https://github.com/Akrog/pinliner) - Python Inliner merges in a single file all files from a Python package.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
-- [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [AlignmentResearch/tuned-lens](https://github.com/AlignmentResearch/tuned-lens) - Tools for understanding how transformer predictions are built layer-by-layer
 - [Alir3z4/django-cuser](https://github.com/Alir3z4/django-cuser) - Middleware to make authentication data easily available to all parts of a django project
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
@@ -854,6 +853,7 @@ A collection of awesome things.
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [erdewit/distex](https://github.com/erdewit/distex) - Distributed process pool for Python
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
 - [erinxocon/requests-xml](https://github.com/erinxocon/requests-xml) - Requests-XML: XML Parsing for Humans
