@@ -884,6 +884,7 @@ A collection of awesome things.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [farhan0581/django-admin-autocomplete-filter](https://github.com/farhan0581/django-admin-autocomplete-filter) - A simple Django app to render list filters in django admin using autocomplete widget. 
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [fcambus/dnc](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration
 - [fdw/ranger-autojump](https://github.com/fdw/ranger-autojump) - The combined magic of autojump, ranger and zsh
 - [finalduty/cis-benchmarks-audit](https://github.com/finalduty/cis-benchmarks-audit) - Simple command line tool to check for compliance against CIS Benchmarks
@@ -1257,7 +1258,6 @@ A collection of awesome things.
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [timofurrer/try](https://github.com/timofurrer/try) - Dead simple CLI tool to try Python packages - It's never been easier! :package: 
 - [timothycrosley/hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
@@ -1616,6 +1616,7 @@ A collection of awesome things.
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - The modern replacement for Jupyter Notebooks
 - [pypi-data/website](https://github.com/pypi-data/website) - next.js website powering https://py-code.org/
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+- [r-wasm/quarto-live](https://github.com/r-wasm/quarto-live) - WebAssembly powered code blocks and exercises for both the R and Python languages in Quarto documents
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
