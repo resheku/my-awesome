@@ -314,7 +314,7 @@ A collection of awesome things.
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [mkouhei/gosh](https://github.com/mkouhei/gosh) - interactive shell for Golang
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
@@ -524,6 +524,7 @@ A collection of awesome things.
 - [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
 - [crawles/automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
+- [ddobrinskiy/streamlit-jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Simple Python package to preview and develop streamlit apps in jupyter notebooks
 - [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
@@ -884,6 +885,7 @@ A collection of awesome things.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [farhan0581/django-admin-autocomplete-filter](https://github.com/farhan0581/django-admin-autocomplete-filter) - A simple Django app to render list filters in django admin using autocomplete widget. 
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [fcambus/dnc](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration
 - [fdw/ranger-autojump](https://github.com/fdw/ranger-autojump) - The combined magic of autojump, ranger and zsh
@@ -1258,7 +1260,6 @@ A collection of awesome things.
 - [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [timofurrer/try](https://github.com/timofurrer/try) - Dead simple CLI tool to try Python packages - It's never been easier! :package: 
 - [timothycrosley/hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
@@ -1366,6 +1367,7 @@ A collection of awesome things.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
