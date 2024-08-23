@@ -146,7 +146,7 @@ A collection of awesome things.
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
-- [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free log management tool capable of compressing text logs and searching the compressed logs without decompression.
+- [y-scope/clp](https://github.com/y-scope/clp) - Compressed Log Processor (CLP) is a free log management tool capable of compressing logs and searching the compressed logs without decompression.
 - [ywelsch/duckdb-prql](https://github.com/ywelsch/duckdb-prql) - PRQL as a DuckDB extension
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
