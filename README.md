@@ -190,7 +190,7 @@ A collection of awesome things.
 
 ## Elixir
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Postgres everywhere — your data, in sync, wherever you need it.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync subsets of your Postgres data into local apps and services.
 
 ## Erlang
 
