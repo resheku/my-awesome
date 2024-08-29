@@ -90,7 +90,7 @@ A collection of awesome things.
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. 
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -242,7 +242,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
@@ -517,7 +517,6 @@ A collection of awesome things.
 
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [florianutz/ubuntu2004_cis](https://github.com/florianutz/ubuntu2004_cis) - Ubuntu CIS Hardening Ansible Role
-- [hitachienergy/epiphany](https://github.com/hitachienergy/epiphany) - Cloud and on-premises automation for Kubernetes centered industrial grade solutions.
 
 ## Jupyter Notebook
 
@@ -942,6 +941,7 @@ A collection of awesome things.
 - [hauxir/errorpush](https://github.com/hauxir/errorpush) - Minimalist Error collection Service compatible with Rollbar clients. Sentry or Rollbar alternative.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line 
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
+- [hitachienergy/epiphany](https://github.com/hitachienergy/epiphany) - Cloud and on-premises automation for Kubernetes centered industrial grade solutions.
 - [holoviz/panel](https://github.com/holoviz/panel) - Panel: The powerful data exploration & web app framework for Python
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1152,7 +1152,7 @@ A collection of awesome things.
 - [pypa/pip-audit](https://github.com/pypa/pip-audit) - Audits Python environments, requirements files and dependency trees for known security vulnerabilities, and can automatically fix them
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pypa/sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
-- [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm) - the blessed package to manage your versions by scm tags
+- [pypa/setuptools-scm](https://github.com/pypa/setuptools-scm) - the blessed package to manage your versions by scm tags
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 - [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
