@@ -1357,7 +1357,7 @@ A collection of awesome things.
 - [mizzy/serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure. 
 - [tobymao/18xx](https://github.com/tobymao/18xx) - A platform for playing 18xx games online!
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 
 ## Rust
 
@@ -1608,7 +1608,7 @@ A collection of awesome things.
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
