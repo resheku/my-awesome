@@ -690,7 +690,7 @@ A collection of awesome things.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt.
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
-- [TypeError/secure](https://github.com/TypeError/secure) - Implement secure headers in Python web frameworks to enhance application security
+- [TypeError/secure](https://github.com/TypeError/secure) - Lightweight Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
 - [Yiling-J/theine](https://github.com/Yiling-J/theine) - high performance in-memory cache
 - [YoSmudge/dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
 - [aaugustin/django-c10k-demo](https://github.com/aaugustin/django-c10k-demo) - 10 000 concurrent real-time connections to Django [UNMAINTAINED]
@@ -1613,7 +1613,6 @@ A collection of awesome things.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
-- [mito-ds/mito](https://github.com/mito-ds/mito) - The mitosheet package, trymito.io, and other public Mito code.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
