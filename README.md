@@ -1287,6 +1287,7 @@ A collection of awesome things.
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vatlab/sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [videoflow/videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
