@@ -2,6 +2,7 @@
 
 A collection of awesome things.
 
+- [Awk](#awk)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -57,6 +58,10 @@ A collection of awesome things.
 - [Misc](#misc)
 
 ---
+
+## Awk
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 
 ## C
 
@@ -396,6 +401,7 @@ A collection of awesome things.
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against any site.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [zalando/go-keyring](https://github.com/zalando/go-keyring) - Cross-platform keyring interface for Go
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 
 ## HTML
 
@@ -678,7 +684,6 @@ A collection of awesome things.
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [RamezIssac/django-slick-reporting](https://github.com/RamezIssac/django-slick-reporting) - The Reporting Engine for Django. Create dashboards and standalone Reports and Charts.
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -853,6 +858,7 @@ A collection of awesome things.
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [dternyak/molten-boilerplate](https://github.com/dternyak/molten-boilerplate) - A boilerplate for the molten framework by Bogdanp                  https://github.com/Bogdanp/molten
+- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
@@ -966,7 +972,7 @@ A collection of awesome things.
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - py.test fixture for benchmarking code
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit. 
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [jacebrowning/template-python](https://github.com/jacebrowning/template-python) - My template for new Python libraries.
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [jamsocket/botsh](https://github.com/jamsocket/botsh) - An LLM-based agent that will install the tools it needs.
@@ -1373,6 +1379,7 @@ A collection of awesome things.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -1400,6 +1407,8 @@ A collection of awesome things.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
@@ -1420,7 +1429,7 @@ A collection of awesome things.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [meli/meli](https://github.com/meli/meli) - 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -1597,6 +1606,7 @@ A collection of awesome things.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
