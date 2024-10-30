@@ -1117,7 +1117,7 @@ A collection of awesome things.
 - [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK 
-- [oracle/graalpython](https://github.com/oracle/graalpython) -  A high-performance embeddable Python 3 runtime for Java
+- [oracle/graalpython](https://github.com/oracle/graalpython) - GraalPy – A high-performance embeddable Python 3 runtime for Java
 - [ovh/celery-director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
@@ -1525,7 +1525,7 @@ A collection of awesome things.
 - [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [mattgreen/lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 - [mherrmann/sentry-self-hosted](https://github.com/mherrmann/sentry-self-hosted) - Self-host Sentry for $5 per month
 - [mpereira/macbook-playbook](https://github.com/mpereira/macbook-playbook) - Install all your applications and configure everything the way you like it with one command
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
