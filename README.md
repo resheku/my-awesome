@@ -1635,7 +1635,7 @@ A collection of awesome things.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
-- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
+- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - 👾 LM Studio CLI
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
