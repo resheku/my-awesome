@@ -221,6 +221,7 @@ A collection of awesome things.
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau) - Compute over Data framework for public, transparent, and optionally verifiable computation
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
