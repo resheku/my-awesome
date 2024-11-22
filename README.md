@@ -535,6 +535,8 @@ A collection of awesome things.
 
 ## Jupyter Notebook
 
+- [AnswerDotAI/fastcore](https://github.com/AnswerDotAI/fastcore) - Python supercharged for the fastai library
+- [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [RasaHQ/rasalit](https://github.com/RasaHQ/rasalit) - Visualizations and helpers to improve and debug machine learning models for Rasa Open Source
 - [SeldonIO/alibi-detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier, adversarial and drift detection
@@ -544,9 +546,7 @@ A collection of awesome things.
 - [crawles/automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
 - [ddobrinskiy/streamlit-jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Simple Python package to preview and develop streamlit apps in jupyter notebooks
-- [fastai/fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
@@ -1330,6 +1330,7 @@ A collection of awesome things.
 - [willkg/markus](https://github.com/willkg/markus) - Markus is a Python library for generating metrics
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [wolever/pip2pi](https://github.com/wolever/pip2pi) - pip2pi builds a PyPI-compatible package repository from pip requirements
+- [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [xavdid/universal-test-runner](https://github.com/xavdid/universal-test-runner) - A language-agnostic, zero-configuration test invoker
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
@@ -1712,7 +1713,6 @@ A collection of awesome things.
 ## Vue
 
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
-- [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 
 ## Zig
 
