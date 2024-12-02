@@ -927,7 +927,7 @@ A collection of awesome things.
 - [fugue-project/fugue](https://github.com/fugue-project/fugue) - A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF!
 - [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
-- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
