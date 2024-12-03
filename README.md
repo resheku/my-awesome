@@ -2,7 +2,6 @@
 
 A collection of awesome things.
 
-- [Awk](#awk)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -58,10 +57,6 @@ A collection of awesome things.
 - [Misc](#misc)
 
 ---
-
-## Awk
-
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 
 ## C
 
@@ -1807,4 +1802,5 @@ A collection of awesome things.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [webmaven/python-parsing-tools](https://github.com/webmaven/python-parsing-tools) - A list of Python parsing tools
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 
