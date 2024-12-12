@@ -377,6 +377,7 @@ A collection of awesome things.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
@@ -391,6 +392,7 @@ A collection of awesome things.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -595,6 +597,7 @@ A collection of awesome things.
 
 ## Nix
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee] 
 - [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
@@ -655,6 +658,7 @@ A collection of awesome things.
 - [CFMTech/pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [CloverHealth/pytest-pgsql](https://github.com/CloverHealth/pytest-pgsql) - Clean PostgreSQL Databases for Your Tests
+- [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - Pytest plugin to create CodSpeed benchmarks
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
@@ -1438,6 +1442,7 @@ A collection of awesome things.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
