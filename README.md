@@ -1660,7 +1660,7 @@ A collection of awesome things.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
