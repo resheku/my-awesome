@@ -762,6 +762,7 @@ A collection of awesome things.
 - [asciimoo/ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) - List of github lists
 - [asmeurer/removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
+- [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [avast/pytest-docker](https://github.com/avast/pytest-docker) - Docker-based integration tests
 - [avian2/unidecode](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text - GitHub mirror
@@ -983,7 +984,6 @@ A collection of awesome things.
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [incuna/django-pgcrypto-fields](https://github.com/incuna/django-pgcrypto-fields) - Transparent field level encryption for Django using the pgcrypto postgresql extension.
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
-- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [inueni/django-subadmin](https://github.com/inueni/django-subadmin) - A special kind of ModelAdmin that allows it to be nested within another ModelAdmin 
 - [iommirocks/iommi](https://github.com/iommirocks/iommi) - Your first pick for a django power cord
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
@@ -1443,11 +1443,11 @@ A collection of awesome things.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [meli/meli](https://github.com/meli/meli) - 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast, feature-rich static code analyzer & language server for Python
@@ -1662,7 +1662,7 @@ A collection of awesome things.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [obeattie/gmaps-radius](https://github.com/obeattie/gmaps-radius) - Add radius circles to a map
@@ -1702,7 +1702,7 @@ A collection of awesome things.
 ## Vim Script
 
 - [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide) - VIM configured as powerful IDE (Integrated Development Environment)
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) - Nim plugin for NeoVim
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim. 
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
