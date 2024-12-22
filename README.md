@@ -1595,7 +1595,7 @@ A collection of awesome things.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [jcm93/jmc](https://github.com/jcm93/jmc) - jmc - a new macOS media organizer
-- [kfv/keylock](https://github.com/kfv/keylock) - macOS utility to lock the keyboard for easy cleaning.
+- [kfv/keylock](https://github.com/kfv/keylock) - macOS utility to lock input devices for easy cleaning.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
