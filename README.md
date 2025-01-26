@@ -618,7 +618,6 @@ A collection of awesome things.
 
 ## Objective-C
 
-- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [fitztrev/shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [whomwah/qlstephen](https://github.com/whomwah/qlstephen) - A QuickLook plugin that lets you view plain text files without a file extension
@@ -1001,7 +1000,7 @@ A collection of awesome things.
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit. 
-- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) — a better way to work with systemd units
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [jacebrowning/template-python](https://github.com/jacebrowning/template-python) - My template for new Python libraries.
@@ -1498,7 +1497,7 @@ A collection of awesome things.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-- [xNaCly/sqleibniz](https://github.com/xNaCly/sqleibniz) - SQL LSP implementation and analysis tool
+- [xNaCly/sqleibniz](https://github.com/xNaCly/sqleibniz) - SQL Language server and cli
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -1603,6 +1602,7 @@ A collection of awesome things.
 
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [aahung/Unshaky](https://github.com/aahung/Unshaky) - A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -1719,7 +1719,6 @@ A collection of awesome things.
 ## Vim Script
 
 - [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide) - VIM configured as powerful IDE (Integrated Development Environment)
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [alaviss/nim.nvim](https://github.com/alaviss/nim.nvim) - Nim plugin for NeoVim
 - [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim. 
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
@@ -1737,6 +1736,7 @@ A collection of awesome things.
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
+- [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 
 ## Vue
 
