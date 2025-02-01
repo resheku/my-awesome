@@ -1538,6 +1538,7 @@ A collection of awesome things.
 - [bruj0/vault_jenkins](https://github.com/bruj0/vault_jenkins) - How to use Vault to store secrets and use them in Jenkins
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
+- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
