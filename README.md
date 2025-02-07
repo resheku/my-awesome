@@ -232,6 +232,7 @@ A collection of awesome things.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [cloud66-oss/trackman](https://github.com/cloud66-oss/trackman) - Execute commands as a workflow.
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
@@ -311,11 +312,10 @@ A collection of awesome things.
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, Salesforce, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [leanovate/gopter](https://github.com/leanovate/gopter) - GOlang Property TestER
