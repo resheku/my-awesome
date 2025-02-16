@@ -1325,7 +1325,7 @@ A collection of awesome things.
 - [typesplainer/typesplainer](https://github.com/typesplainer/typesplainer) - A Python type explainer!
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [uqfoundation/klepto](https://github.com/uqfoundation/klepto) - persistent caching to memory, disk, or database
