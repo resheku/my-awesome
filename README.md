@@ -1078,7 +1078,7 @@ A collection of awesome things.
 - [madflojo/automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [manumerous/vpselector](https://github.com/manumerous/vpselector) - Visual Pandas Selector: Visualize and interactively select time-series data
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [martsberger/django-pivot](https://github.com/martsberger/django-pivot) - A module for pivoting Django Querysets
@@ -1090,6 +1090,7 @@ A collection of awesome things.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [metaist/cosmofy](https://github.com/metaist/cosmofy) - Cosmopolitan Python Bundler
 - [metaperl/python-oop](https://github.com/metaperl/python-oop) - Catalog of Python object-oriented programming articles and links
+- [mgedmin/findimports](https://github.com/mgedmin/findimports) - Static analysis of Python import statements
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
