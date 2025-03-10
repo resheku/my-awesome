@@ -125,6 +125,7 @@ A collection of awesome things.
 - [cmu-db/noisepage](https://github.com/cmu-db/noisepage) - Self-Driving Database Management System from Carnegie Mellon University
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [empirical-soft/empirical-lang](https://github.com/empirical-soft/empirical-lang) - A language for time-series analysis
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
@@ -271,6 +272,7 @@ A collection of awesome things.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -435,6 +437,7 @@ A collection of awesome things.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
+- [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
 - [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
@@ -688,6 +691,7 @@ A collection of awesome things.
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [J535D165/recordlinkage](https://github.com/J535D165/recordlinkage) - A powerful and modular toolkit for record linkage and duplicate detection in Python
+- [JakobGM/patito](https://github.com/JakobGM/patito) - A data modelling layer built on top of polars and pydantic
 - [JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser) - Flenser is a simple, minimal, automated exploratory data analysis tool.
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [Kwpolska/merge_args](https://github.com/Kwpolska/merge_args) - Merge signatures of two functions with Advanced Hackery.
@@ -1726,6 +1730,7 @@ A collection of awesome things.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
 ## Vim Script
@@ -1818,6 +1823,7 @@ A collection of awesome things.
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - [originalankur/awesome-django-admin](https://github.com/originalankur/awesome-django-admin) - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 - [powa-team/powa](https://github.com/powa-team/powa) - PostgreSQL Workload Analyzer
+- [pypi-data/pypi-json-data](https://github.com/pypi-data/pypi-json-data) - Automatically updated pypi API data, available in bulk via git or sqlite
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
