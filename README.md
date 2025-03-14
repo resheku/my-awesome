@@ -188,7 +188,7 @@ A collection of awesome things.
 
 ## Elixir
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 
 ## Erlang
 
@@ -375,6 +375,7 @@ A collection of awesome things.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
@@ -389,7 +390,6 @@ A collection of awesome things.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [square/certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
-- [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [sylabs/singularity-cri](https://github.com/sylabs/singularity-cri) - The Singularity implementation of the Kubernetes Container Runtime Interface
@@ -480,7 +480,7 @@ A collection of awesome things.
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [webanno/webanno](https://github.com/webanno/webanno) - 🆕 Work continues on INCEpTION 👉 https://github.com/inception-project/inception 👈 -- ⚠️ The official WebAnno repository has reached the end of the line. -- 🚀 To migrate, export your annotation projects from WebAnno, then import them into INCEpTION and just work on.
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 
 ## JavaScript
@@ -671,7 +671,6 @@ A collection of awesome things.
 - [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - Pytest plugin to create CodSpeed benchmarks
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [DavidJacobson/SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -878,6 +877,7 @@ A collection of awesome things.
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ 
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
