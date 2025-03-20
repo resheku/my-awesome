@@ -315,7 +315,7 @@ A collection of awesome things.
 - [jstrieb/quickserv](https://github.com/jstrieb/quickserv) - Dangerously user-friendly web server for quick prototyping and hackathons
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [juju/juju](https://github.com/juju/juju) - Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise).
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
@@ -607,7 +607,7 @@ A collection of awesome things.
 
 ## Nix
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee] 
 - [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
