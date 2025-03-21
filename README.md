@@ -1388,8 +1388,6 @@ A collection of awesome things.
 ## Ruby
 
 - [DomT4/homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 - [KrauseFx/overkill](https://github.com/KrauseFx/overkill) - Don't let iTunes interrupt your workflow 💥🎵   
 - [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
@@ -1772,6 +1770,8 @@ A collection of awesome things.
 - [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way. 
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
+- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 💀 Homebrew Services (deprecated)
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [J535D165/data-matching-software](https://github.com/J535D165/data-matching-software) - A list of free data matching and record linkage software. 
 - [JackMcKew/awesome-python-bytes](https://github.com/JackMcKew/awesome-python-bytes) - 😎 🐍 Awesome lists about Python Bytes https://pythonbytes.fm/
