@@ -723,7 +723,7 @@ A collection of awesome things.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
-- [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt.
+- [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
 - [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
 - [Yiling-J/theine](https://github.com/Yiling-J/theine) - high performance in-memory cache
