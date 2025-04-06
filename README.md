@@ -478,6 +478,7 @@ A collection of awesome things.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [paulfitz/daff](https://github.com/paulfitz/daff) - align and compare tables
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [webanno/webanno](https://github.com/webanno/webanno) - 🆕 Work continues on INCEpTION 👉 https://github.com/inception-project/inception 👈 -- ⚠️ The official WebAnno repository has reached the end of the line. -- 🚀 To migrate, export your annotation projects from WebAnno, then import them into INCEpTION and just work on.
@@ -1584,7 +1585,6 @@ A collection of awesome things.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [space-sh/space](https://github.com/space-sh/space) - Single-file dependency-free automation tool written in Bash
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
