@@ -1270,6 +1270,7 @@ A collection of awesome things.
 - [simonw/conditional-get](https://github.com/simonw/conditional-get) - CLI tool for fetching data using HTTP conditional get
 - [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [singer-io/singer-python](https://github.com/singer-io/singer-python) - Writes the Singer format from Python
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
