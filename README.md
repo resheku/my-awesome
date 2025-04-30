@@ -603,7 +603,7 @@ A collection of awesome things.
 
 ## Mojo
 
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
 
 ## Nim
 
@@ -779,6 +779,7 @@ A collection of awesome things.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [avast/pytest-docker](https://github.com/avast/pytest-docker) - Docker-based integration tests
 - [avian2/unidecode](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text - GitHub mirror
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
@@ -1071,7 +1072,6 @@ A collection of awesome things.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
-- [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [life4/flakehell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
