@@ -198,6 +198,7 @@ A collection of awesome things.
 ## Gherkin
 
 - [errata-ai/Google](https://github.com/errata-ai/Google) - A Vale-compatible implementation of the Google Developer Documentation Style Guide.
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 
 ## Go
 
@@ -274,7 +275,6 @@ A collection of awesome things.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -603,7 +603,7 @@ A collection of awesome things.
 
 ## Mojo
 
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## Nim
 
