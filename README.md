@@ -1441,7 +1441,6 @@ A collection of awesome things.
 - [asimihsan/cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [aswinnnn/pyscan](https://github.com/aswinnnn/pyscan) - python dependency vulnerability scanner, written in Rust.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -1485,6 +1484,7 @@ A collection of awesome things.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
+- [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust.
 - [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
