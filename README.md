@@ -698,7 +698,7 @@ A collection of awesome things.
 - [J535D165/recordlinkage](https://github.com/J535D165/recordlinkage) - A powerful and modular toolkit for record linkage and duplicate detection in Python
 - [JakobGM/patito](https://github.com/JakobGM/patito) - A data modelling layer built on top of polars and pydantic
 - [JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser) - Flenser is a simple, minimal, automated exploratory data analysis tool.
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [Kwpolska/merge_args](https://github.com/Kwpolska/merge_args) - Merge signatures of two functions with Advanced Hackery.
 - [LeapBeyond/scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text.
 - [MarcoGorelli/auto-walrus](https://github.com/MarcoGorelli/auto-walrus) - Automatically use the awesome walrus operator
@@ -1196,7 +1196,7 @@ A collection of awesome things.
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [pyeve/events](https://github.com/pyeve/events) - Python Event Handling the C# Style
 - [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor
 - [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
