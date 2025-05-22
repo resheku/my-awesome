@@ -997,7 +997,7 @@ A collection of awesome things.
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hubblestack/hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework. The project provides on-demand profile-based auditing, real-time security event notifications, alerting, and reporting.
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 3.X client for HashiCorp Vault
 - [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels.
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
@@ -1139,7 +1139,7 @@ A collection of awesome things.
 - [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [nggit/tremolo](https://github.com/nggit/tremolo) - A Swiss Army knife, crash-free ASGI server and web framework capable of large file streaming.
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
