@@ -1535,6 +1535,7 @@ A collection of awesome things.
 
 - [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
+- [com-lihaoyi/Ammonite](https://github.com/com-lihaoyi/Ammonite) - Scala Scripting
 
 ## Shell
 
