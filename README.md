@@ -372,6 +372,7 @@ A collection of awesome things.
 - [project-stacker/stacker](https://github.com/project-stacker/stacker) - A vendor-neutral OCI-native container image (tgz, squashfs, erofs) builder (purely based on OCI Image Specification)
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [prometheus-community/ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter) - Remote IPMI exporter for Prometheus
+- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
