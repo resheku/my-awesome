@@ -621,7 +621,7 @@ A collection of awesome things.
 ## Nix
 
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee] 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 
 ## OCaml
