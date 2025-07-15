@@ -802,7 +802,7 @@ A collection of awesome things.
 - [berislavlopac/pyotr](https://github.com/berislavlopac/pyotr) - Python OpenAPI-to-REST (and back) framework
 - [bgreenlee/pygtail](https://github.com/bgreenlee/pygtail) - Pygtail reads log file lines that have not been read. It will even handle log files that have been rotated. Based on logcheck's logtail2 (http://logcheck.org)
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [brandtbucher/specialist](https://github.com/brandtbucher/specialist) - Visualize CPython's specializing, adaptive interpreter. :fire:
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1741,7 +1741,7 @@ A collection of awesome things.
 - [r-wasm/quarto-live](https://github.com/r-wasm/quarto-live) - WebAssembly powered code blocks and exercises for both the R and Python languages in Quarto documents
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 Rivet Actors is a library that provides durable state, realtime, and scalability. Easily self-hostable and works with your infrastructure. Just a library, no SaaS.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Rivet is a library for long-lived processes with durable state, realtime, and scalability. Easily self-hostable and works with your infrastructure.
 - [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Infrastructure as TypeScript
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
