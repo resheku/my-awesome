@@ -449,7 +449,6 @@ A collection of awesome things.
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
-- [jgujerry/python-frameworks](https://github.com/jgujerry/python-frameworks) - Another curated list of Python frameworks
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
 - [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
@@ -742,6 +741,7 @@ A collection of awesome things.
 - [TypeError/secure](https://github.com/TypeError/secure) - Lightweight modern Python library to add security headers (CSP, HSTS, etc.) to Django, Flask, FastAPI, and more. Secure defaults or fully customizable.
 - [Yiling-J/theine](https://github.com/Yiling-J/theine) - high performance in-memory cache
 - [YoSmudge/dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 - [aaugustin/django-c10k-demo](https://github.com/aaugustin/django-c10k-demo) - 10 000 concurrent real-time connections to Django [UNMAINTAINED]
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
@@ -750,7 +750,7 @@ A collection of awesome things.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [adipandas/multi-object-tracker](https://github.com/adipandas/multi-object-tracker) - Multi-object trackers in Python
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
-- [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
+- [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [ahawker/ulid](https://github.com/ahawker/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Python 3
@@ -984,6 +984,7 @@ A collection of awesome things.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [google/macops](https://github.com/google/macops) - Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
@@ -1044,6 +1045,7 @@ A collection of awesome things.
 - [jd/pifpaf](https://github.com/jd/pifpaf) - Python fixtures and daemon managing tools for functional testing
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
+- [jgujerry/python-frameworks](https://github.com/jgujerry/python-frameworks) - Another curated list of Python frameworks
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [jllorencetti/pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - Plugin to list unused fixtures in your tests
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
@@ -1701,7 +1703,7 @@ A collection of awesome things.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
