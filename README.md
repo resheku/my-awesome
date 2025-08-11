@@ -543,7 +543,6 @@ A collection of awesome things.
 - [regebro/hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [sasha-alias/sqltabs](https://github.com/sasha-alias/sqltabs) - Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
-- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
@@ -1725,6 +1724,7 @@ A collection of awesome things.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [manzt/quak](https://github.com/manzt/quak) - a scalable data profiler
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1750,6 +1750,7 @@ A collection of awesome things.
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Easily self-hostable and works with your infrastructure.
 - [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Infrastructure as TypeScript
+- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [sourcegraph/openctx](https://github.com/sourcegraph/openctx) - See contextual info about code from your dev tools, in your editor, code review, and anywhere else you read code.
