@@ -254,7 +254,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, high-cost infrastructure like Airflow to be overkill and are looking for a simpler solution.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -436,6 +436,7 @@ A collection of awesome things.
 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [Query-farm/duckdb-extension-httpserver](https://github.com/Query-farm/duckdb-extension-httpserver) - DuckDB HTTP API Server and Query Interface in a  Community Extension
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
@@ -449,10 +450,10 @@ A collection of awesome things.
 - [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
 - [ibnuh/regex-generator](https://github.com/ibnuh/regex-generator) - A web tools to generate regular expressions from set of strings.      https://ibnuhx.com/regex-generator
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
+- [jgujerry/python-frameworks](https://github.com/jgujerry/python-frameworks) - Another curated list of Python frameworks
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
 - [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
-- [quackscience/duckdb-extension-httpserver](https://github.com/quackscience/duckdb-extension-httpserver) - DuckDB HTTP API Server and Query Interface in a  Community Extension
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -572,12 +573,13 @@ A collection of awesome things.
 - [ddobrinskiy/streamlit-jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Simple Python package to preview and develop streamlit apps in jupyter notebooks
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python. 
 - [mbernico/CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
 - [mhansen/profilerpedia](https://github.com/mhansen/profilerpedia) - Catalog of profilers, profile data formats, data format converters, and profile analysis UIs.
 - [pydanny/dj-notebook](https://github.com/pydanny/dj-notebook) - Django + shell_plus + Jupyter notebooks made easy.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 ## Kotlin
@@ -1044,7 +1046,6 @@ A collection of awesome things.
 - [jd/pifpaf](https://github.com/jd/pifpaf) - Python fixtures and daemon managing tools for functional testing
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
-- [jgujerry/python-frameworks](https://github.com/jgujerry/python-frameworks) - Another curated list of Python frameworks
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [jllorencetti/pytest-deadfixtures](https://github.com/jllorencetti/pytest-deadfixtures) - Plugin to list unused fixtures in your tests
 - [jmespath/jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
@@ -1096,6 +1097,7 @@ A collection of awesome things.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [madflojo/automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
+- [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [manumerous/vpselector](https://github.com/manumerous/vpselector) - Visual Pandas Selector: Visualize and interactively select time-series data
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
@@ -1346,7 +1348,6 @@ A collection of awesome things.
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [trailofbits/deptective](https://github.com/trailofbits/deptective) - Deptective automatically determines the native dependencies required to run any arbitrary program or command.
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [typesplainer/typesplainer](https://github.com/typesplainer/typesplainer) - A Python type explainer!
@@ -1697,7 +1698,7 @@ A collection of awesome things.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
