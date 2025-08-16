@@ -254,7 +254,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A language-agnostic, lightweight, and powerful workflow engine. It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -775,7 +775,7 @@ A collection of awesome things.
 - [anapaulagomes/pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
 - [andrewbihl/bsed](https://github.com/andrewbihl/bsed) - Simple SQL-like syntax on top of Perl text processing.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [antoinecarme/pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
 - [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types) - Phantom types for Python.
 - [app-generator/django-tasks-manager](https://github.com/app-generator/django-tasks-manager) - Django Tasks Manager - Simple Celery Integration | AppSeed
