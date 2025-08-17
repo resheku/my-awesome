@@ -69,9 +69,7 @@ A collection of awesome things.
 - [Juniper/libxo](https://github.com/Juniper/libxo) - The libxo library allows an application to generate text, XML, JSON, and HTML output using a common set of function calls. The application decides at run time which output style should be produced.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-- [arkhipov/temporal_tables](https://github.com/arkhipov/temporal_tables) - Temporal Tables PostgreSQL Extension
 - [c---/applesmc-next](https://github.com/c---/applesmc-next) - Patches to Linux kernel to allow setting battery charge thresholds on Apple devices.
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -254,7 +252,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A language-agnostic, lightweight, and powerful workflow engine. It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine for developers. Equipped with professional features that meets enterprise requirements. It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -417,6 +415,7 @@ A collection of awesome things.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
