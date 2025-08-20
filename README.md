@@ -254,7 +254,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine for developers. Equipped with professional features that meets enterprise requirements. It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained workflow engine that requires no external database or queues. It aims to be an ideal choice for teams that find Airflow to be overkill and are looking for a simpler solution.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
