@@ -1076,6 +1076,7 @@ A collection of awesome things.
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [kristovatlas/osx-config-check](https://github.com/kristovatlas/osx-config-check) - Verify the configuration of your OS X machine.
+- [kruskal-labs/toolfront](https://github.com/kruskal-labs/toolfront) - Data retrieval for AI agents
 - [kvesteri/sqlalchemy-continuum](https://github.com/kvesteri/sqlalchemy-continuum) - Versioning extension for SQLAlchemy.
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
@@ -1100,7 +1101,7 @@ A collection of awesome things.
 - [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [man-group/pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [manumerous/vpselector](https://github.com/manumerous/vpselector) - Visual Pandas Selector: Visualize and interactively select time-series data
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka) - Making data lake work for time series
 - [martsberger/django-pivot](https://github.com/martsberger/django-pivot) - A module for pivoting Django Querysets
