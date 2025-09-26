@@ -627,6 +627,7 @@ A collection of awesome things.
 
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [supabase/vault](https://github.com/supabase/vault) - Extension for storing encrypted secrets in the Vault
 
 ## OCaml
@@ -656,7 +657,6 @@ A collection of awesome things.
 - [darenasc/auto-eda](https://github.com/darenasc/auto-eda) - Automated Exploratory Data Analysis. Simplifying Data Exploration 
 - [linz/postgresql-tableversion](https://github.com/linz/postgresql-tableversion) - PostgreSQL table versioning management software
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 
@@ -1379,6 +1379,7 @@ A collection of awesome things.
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
+- [wasix-org/build-scripts](https://github.com/wasix-org/build-scripts) - A big Makefile that builds packages for WASIX
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
 - [wemake-services/dotenv-linter](https://github.com/wemake-services/dotenv-linter) - :relaxed: Linting dotenv files like a charm!
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
