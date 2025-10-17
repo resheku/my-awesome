@@ -692,7 +692,7 @@ A collection of awesome things.
 - [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [AndreaCensi/contracts](https://github.com/AndreaCensi/contracts) - PyContracts is a Python package that allows to declare  constraints on function parameters and return values.  Contracts can be specified using Python3 annotations, or inside a docstring. PyContracts supports a basic type system, variables binding,  arithmetic constraints, and has several specialized contracts and an extension API.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Time-series data warehouse built for speed. 2.42M records/sec on local NVMe. DuckDB + Parquet + flexible storage (local/MinIO/S3). AGPL-3.0
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Time-series data warehouse built for speed. 2.42M records/sec on local NVMe. DuckDB + Parquet + Arrow + flexible storage (local/MinIO/S3). AGPL-3.0
 - [CFMTech/pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [CloverHealth/pytest-pgsql](https://github.com/CloverHealth/pytest-pgsql) - Clean PostgreSQL Databases for Your Tests
@@ -1323,7 +1323,7 @@ A collection of awesome things.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [stackimpact/stackimpact-python](https://github.com/stackimpact/stackimpact-python) - DEPRECATED StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
-- [statespace-ai/toolfront](https://github.com/statespace-ai/toolfront) - Data environments for AI agents
+- [statespace-tech/toolfront](https://github.com/statespace-tech/toolfront) - Data environments for AI agents
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
