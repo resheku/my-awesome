@@ -260,7 +260,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful, portable, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead-simple, lightweight workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -1046,7 +1046,6 @@ A collection of awesome things.
 - [ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - pytest fixture for benchmarking code
 - [ionelmc/python-hunter](https://github.com/ionelmc/python-hunter) - Hunter is a flexible code tracing toolkit. 
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [jacebrowning/template-python](https://github.com/jacebrowning/template-python) - My template for new Python libraries.
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [jamsocket/botsh](https://github.com/jamsocket/botsh) - An LLM-based agent that will install the tools it needs.
@@ -1367,6 +1366,7 @@ A collection of awesome things.
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [trailofbits/deptective](https://github.com/trailofbits/deptective) - Deptective automatically determines the native dependencies required to run any arbitrary program or command.
+- [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [tryolabs/norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
