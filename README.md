@@ -70,6 +70,7 @@ A collection of awesome things.
 - [P403n1x87/austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [asmvik/skhd](https://github.com/asmvik/skhd) -  Simple hotkey daemon for macOS
 - [c---/applesmc-next](https://github.com/c---/applesmc-next) - Patches to Linux kernel to allow setting battery charge thresholds on Apple devices.
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -81,7 +82,6 @@ A collection of awesome things.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
 - [landley/toybox](https://github.com/landley/toybox) - toybox
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
