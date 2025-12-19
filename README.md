@@ -125,7 +125,7 @@ A collection of awesome things.
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
 - [cmu-db/noisepage](https://github.com/cmu-db/noisepage) - Self-Driving Database Management System from Carnegie Mellon University
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
-- [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
+- [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [empirical-soft/empirical-lang](https://github.com/empirical-soft/empirical-lang) - A language for time-series analysis
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -263,7 +263,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, local-first workflow engine for enterprise and small teams. 100% open source. No vendor lock-in. Offline or air-gapped environment ready.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - No-code, self-contained, language-agnostic workflow engine. Offline or air-gapped environment ready.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
