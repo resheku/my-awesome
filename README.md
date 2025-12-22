@@ -372,7 +372,7 @@ A collection of awesome things.
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [orneryd/NornicDB](https://github.com/orneryd/NornicDB) - NornicDB is a high-performance graph database designed for AI agents and knowledge systems. It speaks Neo4j's (Bolt + Cypher) so you can switch with zero code changes, while adding intelligent features including a graphql endpoint, native embeddings, GPU accelerated embedding search, k-means, and auto TLP with optional LLM inference, and plugins.
+- [orneryd/NornicDB](https://github.com/orneryd/NornicDB) - NornicDB is a high-performance graph database built for AI agents and knowledge systems. It speaks Neo4j's (Bolt + Cypher) so you can switch with zero code changes, while adding intelligent features including a graphql endpoint, native embeddings, GPU accelerated embedding search, k-means, auto TLP with LLM inference, and community plugins.
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
@@ -1178,7 +1178,7 @@ A collection of awesome things.
 - [nlplab/brat](https://github.com/nlplab/brat) - brat rapid annotation tool (brat) - for all your textual annotation needs
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [nottheswimmer/pytago](https://github.com/nottheswimmer/pytago) - A source-to-source transpiler for Python to Go translation
-- [npcole/npyscreen](https://github.com/npcole/npyscreen) - Automatically exported from code.google.com/p/npyscreen
+- [npcole/npyscreen](https://github.com/npcole/npyscreen) - User interfaces for the terminal without all that mucking about in hyperspace.
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance analysis for Python snippets
 - [nshafer/django-hashid-field](https://github.com/nshafer/django-hashid-field) - Django Model Field that uses Hashids to obscure the value
@@ -1758,7 +1758,7 @@ A collection of awesome things.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [manzt/quak](https://github.com/manzt/quak) - a scalable data profiler
