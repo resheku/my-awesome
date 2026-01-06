@@ -227,7 +227,7 @@ A collection of awesome things.
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+- [ariga/atlas](https://github.com/ariga/atlas) - Declarative schema migrations with schema-as-code workflows
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
@@ -264,7 +264,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just work without requiring databases, message brokers, or code changes.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile, lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just works without complex infrastructure.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -553,7 +553,7 @@ A collection of awesome things.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [mariusandra/insights](https://github.com/mariusandra/insights) - Open Source Self-Hosted Business Intelligence Platform
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
