@@ -1765,8 +1765,9 @@ A collection of awesome things.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
+- [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [manzt/quak](https://github.com/manzt/quak) - a scalable data profiler
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
