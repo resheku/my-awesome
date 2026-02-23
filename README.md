@@ -938,7 +938,7 @@ A collection of awesome things.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
-- [ebonnal/streamable](https://github.com/ebonnal/streamable) - (sync/async) iterable streams for Python
+- [ebonnal/streamable](https://github.com/ebonnal/streamable) - sync/async iterable streams for Python
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [emirozer/fake2db](https://github.com/emirozer/fake2db) - create custom test databases that are populated with fake data
