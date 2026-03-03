@@ -539,7 +539,6 @@ A collection of awesome things.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -711,6 +710,7 @@ A collection of awesome things.
 - [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
+- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. 
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [DavidJacobson/SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -770,7 +770,7 @@ A collection of awesome things.
 - [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for Shiny, FastAPI, Django, Flask, and other ASGI/WSGI apps.
 - [Yiling-J/theine](https://github.com/Yiling-J/theine) - high performance in-memory cache
 - [YoSmudge/dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 - [aaugustin/django-c10k-demo](https://github.com/aaugustin/django-c10k-demo) - 10 000 concurrent real-time connections to Django [UNMAINTAINED]
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
@@ -1007,6 +1007,7 @@ A collection of awesome things.
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [gianchub/alembic-verify](https://github.com/gianchub/alembic-verify) - A library to help work with alembic migrations 
 - [gitaarik/django-admin-relation-links](https://github.com/gitaarik/django-admin-relation-links) - An easy way to add links to relations in the Django Admin site.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [goldmann/docker-squash](https://github.com/goldmann/docker-squash) - Docker image squashing tool
@@ -1105,7 +1106,7 @@ A collection of awesome things.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
 - [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [lamby/django-lint](https://github.com/lamby/django-lint) - Tool to lint Django applications and projects
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [larryhastings/appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -1420,7 +1421,6 @@ A collection of awesome things.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
 - [yaroslaff/a2utils](https://github.com/yaroslaff/a2utils) - a2utils is set of linux CLI utilities to perform operations with Apache2 config files (create/configure VirtualHosts, request LetsEncrypt certificates, detect problems with LetsEncrypt verification)
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. 
 - [yourlabs/django-cities-light](https://github.com/yourlabs/django-cities-light) - A simple app providing three models: Country, Region and City model. Also provided, a command to insert or update data from geonames database dumps. Status: stable.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in Google BigQuery.
