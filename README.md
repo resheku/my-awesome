@@ -1762,7 +1762,7 @@ A collection of awesome things.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
