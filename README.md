@@ -717,7 +717,7 @@ A collection of awesome things.
 - [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. 
+- [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. 
 - [DataBrewery/cubes](https://github.com/DataBrewery/cubes) - [NOT MAINTAINED] Light-weight Python OLAP framework for multi-dimensional data analysis
 - [DavidJacobson/SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -774,7 +774,7 @@ A collection of awesome things.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
-- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers (CSP, HSTS, etc.) with secure defaults and presets for Shiny, FastAPI, Django, Flask, and other ASGI/WSGI apps.
+- [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers with safe defaults, configurable presets, and first-class ASGI/WSGI middleware (FastAPI, Django, Flask, Shiny, and more).
 - [Yiling-J/theine](https://github.com/Yiling-J/theine) - high performance in-memory cache
 - [YoSmudge/dnsyo](https://github.com/YoSmudge/dnsyo) - Check your DNS against over 1000 global DNS servers
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
@@ -1053,6 +1053,7 @@ A collection of awesome things.
 - [ianozsvald/learning_text_transformer](https://github.com/ianozsvald/learning_text_transformer) - Search 'from' and 'to' strings to learn a text cleaning mapping
 - [ianozsvald/learning_text_transformer_demo](https://github.com/ianozsvald/learning_text_transformer_demo) - Demo code for learning_text_transformer
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
+- [idesis-gmbh/GitHubExperiments](https://github.com/idesis-gmbh/GitHubExperiments) -  Experiments with GitHub event data 
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects
 - [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
