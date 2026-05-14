@@ -431,6 +431,7 @@ A collection of awesome things.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it.
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
