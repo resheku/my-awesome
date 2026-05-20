@@ -319,7 +319,7 @@ A collection of awesome things.
 - [icyphox/legit](https://github.com/icyphox/legit) - web frontend for git
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [inlets/inletsctl](https://github.com/inlets/inletsctl) - Create inlets servers on the top cloud platforms
 - [intenthq/anon](https://github.com/intenthq/anon) - A UNIX Command To Anonymise Data
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
@@ -1173,7 +1173,6 @@ A collection of awesome things.
 - [mozilla-services/markus](https://github.com/mozilla-services/markus) - Markus is a Python library for generating metrics
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch) - Multiple dispatch
-- [multiversecoder/darknet.py](https://github.com/multiversecoder/darknet.py) - darknet.py is a network application with no dependencies other than Python and Tor, useful to anonymize the traffic of linux servers and workstations.
 - [mutpy/mutpy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
 - [mwilliamson/stickytape](https://github.com/mwilliamson/stickytape) - Convert Python packages into a single script
 - [mwouts/itables](https://github.com/mwouts/itables) - Python DataFrames as Interactive DataTables
@@ -1525,7 +1524,7 @@ A collection of awesome things.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, 90 framework plugins.
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, 95 framework plugins.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks. 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
