@@ -797,7 +797,7 @@ A collection of awesome things.
 - [albertz/python-preloaded](https://github.com/albertz/python-preloaded) - Bundle Python executable with preloaded modules
 - [alesdotio/django-admin-shortcuts](https://github.com/alesdotio/django-admin-shortcuts) - Add simple and pretty shortcuts to the django admin homepage.
 - [alex-sherman/unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
-- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing
+- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels for ingress, webhooks, demos, and APIs
 - [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
@@ -860,6 +860,7 @@ A collection of awesome things.
 - [chtd/psycopg2cffi](https://github.com/chtd/psycopg2cffi) - Port to cffi with some speed improvements
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
+- [citrusvanilla/tinyflux](https://github.com/citrusvanilla/tinyflux) - The tiny time series database optimized for your happiness.
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
 - [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - hyperpolyglot.org
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
