@@ -135,6 +135,7 @@ A collection of awesome things.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [phusion/passenger](https://github.com/phusion/passenger) - A fast and robust web server and application server for Ruby, Python and Node.js
 - [plasma-umass/Mesh](https://github.com/plasma-umass/Mesh) - A memory allocator that automatically reduces the memory footprint of C/C++ applications.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -1081,7 +1082,6 @@ A collection of awesome things.
 - [jcampbell05/volcano](https://github.com/jcampbell05/volcano) - A programming language which compiles to shell
 - [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [jd/pifpaf](https://github.com/jd/pifpaf) - Python fixtures and daemon managing tools for functional testing
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
@@ -1176,6 +1176,7 @@ A collection of awesome things.
 - [mozilla-services/markus](https://github.com/mozilla-services/markus) - Markus is a Python library for generating metrics
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch) - Multiple dispatch
+- [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [mutpy/mutpy](https://github.com/mutpy/mutpy) - MutPy is a mutation testing tool for Python 3.x source code
 - [mwilliamson/stickytape](https://github.com/mwilliamson/stickytape) - Convert Python packages into a single script
 - [mwouts/itables](https://github.com/mwouts/itables) - Python DataFrames as Interactive DataTables
@@ -1491,6 +1492,7 @@ A collection of awesome things.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [SouravRoy-ETL/duckle](https://github.com/SouravRoy-ETL/duckle) - Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny desktop app, no servers, git-friendly workspaces.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -1516,6 +1518,7 @@ A collection of awesome things.
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
+- [columnar-tech/databow](https://github.com/columnar-tech/databow) - A command-line tool for querying databases
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -1555,7 +1558,6 @@ A collection of awesome things.
 - [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability datalake built from first principles.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
