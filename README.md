@@ -339,6 +339,7 @@ A collection of awesome things.
 - [kubecost/kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
+- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [leanovate/gopter](https://github.com/leanovate/gopter) - GOlang Property TestER
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers. 
@@ -1479,6 +1480,7 @@ A collection of awesome things.
 ## Rust
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.
 - [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
