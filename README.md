@@ -116,6 +116,7 @@ A collection of awesome things.
 
 - [BlazingDB/blazingsql](https://github.com/BlazingDB/blazingsql) - BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
+- [KoliStat/the-stats-duck](https://github.com/KoliStat/the-stats-duck) - A statistical computing toolkit for DuckDB.
 - [MarkRoddy/duckdb-pytables](https://github.com/MarkRoddy/duckdb-pytables) - 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
