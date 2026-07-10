@@ -1523,7 +1523,7 @@ A collection of awesome things.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
@@ -1765,6 +1765,7 @@ A collection of awesome things.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+- [adam-s/intercept](https://github.com/adam-s/intercept) - Turn any website into a typed JSON API using self improving agents
 - [alantech/iasql](https://github.com/alantech/iasql) - Cloud Infrastructure as data in PostgreSQL
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
