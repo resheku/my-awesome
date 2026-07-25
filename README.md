@@ -957,7 +957,7 @@ A collection of awesome things.
 - [dternyak/molten-boilerplate](https://github.com/dternyak/molten-boilerplate) - A boilerplate for the molten framework by Bogdanp                  https://github.com/Bogdanp/molten
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
-- [earthgecko/skyline](https://github.com/earthgecko/skyline) - Anomaly detection
+- [earthgecko/skyline](https://github.com/earthgecko/skyline) - Real-time anomaly detection for time series metrics. 11 years of production anomaly detection evolution. Multi-algorithm ensembles. Pattern recognition using semi-supervised and unsupervised learning. Correlation analysis. Learns and gets better over time.  No GPU required, can run on a VPS.
 - [ebertti/django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
 - [ebonnal/streamable](https://github.com/ebonnal/streamable) - sync/async iterable streams for Python
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
@@ -1590,7 +1590,7 @@ A collection of awesome things.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source local-first ETL/ELT studio: build visual data pipelines with 360+ components (dbt, data quality, CDC, streaming, SaaS APIs), run at native DuckDB speed, and generate pipelines from plain English with an on-device AI assistant. No cloud, no lock-in.
+- [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT on DuckDB. Write, wire, or draw one pipeline: 350+ components, 160+ connectors, dbt, CDC, data quality, a Python API, and MCP for AI agents. Runs anywhere, no lock-in.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
