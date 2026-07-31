@@ -207,7 +207,6 @@ A collection of awesome things.
 ## Gherkin
 
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
-- [vale-cli/Google](https://github.com/vale-cli/Google) - A Vale-compatible implementation of the Google Developer Documentation Style Guide.
 
 ## Go
 
@@ -446,6 +445,7 @@ A collection of awesome things.
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
+- [vale-cli/Google](https://github.com/vale-cli/Google) - A Vale-compatible implementation of the Google Developer Documentation Style Guide.
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [variadico/noti](https://github.com/variadico/noti) - Moved to Codeberg
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1013,6 +1013,7 @@ A collection of awesome things.
 - [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [gaubert/gmvault](https://github.com/gaubert/gmvault) - gmail backup software
+- [gavamedia/deltafin](https://github.com/gavamedia/deltafin) - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [geoalchemy/geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
