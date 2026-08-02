@@ -266,7 +266,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first engine: one binary, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -1826,6 +1826,7 @@ A collection of awesome things.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+- [nrslib/takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
