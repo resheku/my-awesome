@@ -132,6 +132,7 @@ A collection of awesome things.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [gropaul/dash](https://github.com/gropaul/dash) - Local GUI and Data Canvas as a DuckDB extension
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
@@ -268,7 +269,7 @@ A collection of awesome things.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -541,6 +542,7 @@ A collection of awesome things.
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
+- [cloudflare/cloudflare-os-starter](https://github.com/cloudflare/cloudflare-os-starter) - A guide for customizing your Cloudflare OS deployment
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
@@ -717,6 +719,7 @@ A collection of awesome things.
 - [AndreaCensi/contracts](https://github.com/AndreaCensi/contracts) - PyContracts is a Python package that allows to declare  constraints on function parameters and return values.  Contracts can be specified using Python3 annotations, or inside a docstring. PyContracts supports a basic type system, variables binding,  arithmetic constraints, and has several specialized contracts and an extension API.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 - [CFMTech/pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest plugin for analyzing resource usage during test sessions
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [CloverHealth/pytest-pgsql](https://github.com/CloverHealth/pytest-pgsql) - Clean PostgreSQL Databases for Your Tests
@@ -1738,7 +1741,7 @@ A collection of awesome things.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [kfv/keylock](https://github.com/kfv/keylock) - macOS utility to lock input devices for easy cleaning.
-- [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) - 
+- [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) - Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM, including on iPhone.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
@@ -1858,7 +1861,7 @@ A collection of awesome things.
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [sourcegraph/openctx](https://github.com/sourcegraph/openctx) - See contextual info about code from your dev tools, in your editor, code review, and anywhere else you read code.
 - [sqg-dev/sqg](https://github.com/sqg-dev/sqg) - Generate typesafe code from SQL queries, DuckDB, SQlite, Postgres. ⭐️ Star to support our work!
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
