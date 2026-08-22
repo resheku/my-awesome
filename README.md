@@ -1876,6 +1876,7 @@ A collection of awesome things.
 - [supabase/dbdev](https://github.com/supabase/dbdev) - Database Package Registry for Postgres
 - [supabase/setup-cli](https://github.com/supabase/setup-cli) - A GitHub action for interacting with your Supabase projects using the CLI.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [swamp-club/swamp](https://github.com/swamp-club/swamp) - Stinemates, Watson, Adam, Mahir, Paul 
 - [t1mmen/srtd](https://github.com/t1mmen/srtd) - 🪄 Supabase migrations made magical: Live-reloading SQL + Sane, reviewable diffs + Maintainable templates = Delightful DX
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
