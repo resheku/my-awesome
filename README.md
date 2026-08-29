@@ -144,7 +144,7 @@ A collection of awesome things.
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [sakura-editor/sakura](https://github.com/sakura-editor/sakura) - SAKURA Editor (Japanese text editor for MS Windows)
 - [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
-- [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions.
+- [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ transpiler. Read the introduction below to learn about the restrictions.
 - [sirius-db/sirius](https://github.com/sirius-db/sirius) - GPU-native composable analytics engine
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [teaguesterling/duckdb_mcp](https://github.com/teaguesterling/duckdb_mcp) - A simple MCP server extension for DuckDB
@@ -1366,6 +1366,7 @@ A collection of awesome things.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [stackimpact/stackimpact-python](https://github.com/stackimpact/stackimpact-python) - DEPRECATED StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -1603,7 +1604,6 @@ A collection of awesome things.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries. 
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [statespace-tech/statespace](https://github.com/statespace-tech/statespace) - Search for the agentic web.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -1928,6 +1928,7 @@ A collection of awesome things.
 
 ## Zig
 
+- [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) - Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes
 
 ## Misc
