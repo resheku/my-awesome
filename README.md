@@ -29,6 +29,7 @@ A collection of awesome things.
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
+- [NewLisp](#newlisp)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -649,6 +650,10 @@ A collection of awesome things.
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
+## NewLisp
+
+- [TellinaTool/nl2bash](https://github.com/TellinaTool/nl2bash) - Generating bash command from natural language https://arxiv.org/abs/1802.08979
+
 ## Nim
 
 - [PMunch/nimcr](https://github.com/PMunch/nimcr) - 
@@ -1032,6 +1037,7 @@ A collection of awesome things.
 - [gforcada/flake8-builtins](https://github.com/gforcada/flake8-builtins) - Check for python builtins being used as variables or parameters
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [gianchub/alembic-verify](https://github.com/gianchub/alembic-verify) - A library to help work with alembic migrations 
+- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - NPC-Forge is a framework for building conversational agents that run on the CPU without relying on machine learning or LLMs.
 - [gitaarik/django-admin-relation-links](https://github.com/gitaarik/django-admin-relation-links) - An easy way to add links to relations in the Django Admin site.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gnocchixyz/gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
