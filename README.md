@@ -786,6 +786,7 @@ A collection of awesome things.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
+- [ThorOdinson246/whatisit-nl2sh](https://github.com/ThorOdinson246/whatisit-nl2sh) - Local natural-language-to-shell command generator. A 941 MB fine-tuned Qwen2.5-Coder-1.5B running on CPU in ~1s. 
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [TvoroG/pytest-lazy-fixture](https://github.com/TvoroG/pytest-lazy-fixture) - It helps to use fixtures in pytest.mark.parametrize
 - [TypeError/secure](https://github.com/TypeError/secure) - Modern Python library for HTTP security headers with safe defaults, configurable presets, and first-class ASGI/WSGI middleware (FastAPI, Django, Flask, Shiny, and more).
@@ -1606,7 +1607,7 @@ A collection of awesome things.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle) - Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Branchable computing by using a portable, lightweight, self-contained virtual machine
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries. 
