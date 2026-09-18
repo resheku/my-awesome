@@ -229,6 +229,7 @@ A collection of awesome things.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [LyleMi/ja3proxy](https://github.com/LyleMi/ja3proxy) - Customizing TLS (JA3) Fingerprints through HTTP Proxy
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -489,6 +490,7 @@ A collection of awesome things.
 - [okfn/messytables](https://github.com/okfn/messytables) - Tools for parsing messy tabular data. This is now superseded by https://github.com/frictionlessdata/tabulator-py
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 
 ## Haskell
@@ -871,7 +873,7 @@ A collection of awesome things.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [byashimov/django-controlcenter](https://github.com/byashimov/django-controlcenter) - Set of widgets to build dashboards for Django projects
 - [bytewax/hacking-hacker-news](https://github.com/bytewax/hacking-hacker-news) - Analyzing hacker news in real-time with Bytewax and Proton
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [cameronmaske/celery-once](https://github.com/cameronmaske/celery-once) - Celery Once allows you to prevent multiple execution and queuing of celery tasks.
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
@@ -1523,6 +1525,7 @@ A collection of awesome things.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -1652,7 +1655,6 @@ A collection of awesome things.
 
 ## Scala
 
-- [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [com-lihaoyi/Ammonite](https://github.com/com-lihaoyi/Ammonite) - Scala Scripting
 
@@ -1818,6 +1820,7 @@ A collection of awesome things.
 - [cloudflare/cloudflare-os-starter](https://github.com/cloudflare/cloudflare-os-starter) - A guide for customizing your Cloudflare OS deployment
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
