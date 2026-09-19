@@ -288,6 +288,7 @@ A collection of awesome things.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -550,7 +551,6 @@ A collection of awesome things.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [dataqa/nlp-labelling](https://github.com/dataqa/nlp-labelling) - Labelling platform for text using weak supervision.
@@ -897,6 +897,7 @@ A collection of awesome things.
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [coady/multimethod](https://github.com/coady/multimethod) - Multiple argument dispatching.
 - [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [cole-wilson/sailboat](https://github.com/cole-wilson/sailboat) - 🐍 A quick and easy way to distribute your Python projects!
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -1678,7 +1679,6 @@ A collection of awesome things.
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2
