@@ -269,7 +269,7 @@ A collection of awesome things.
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [d3witt/viking](https://github.com/d3witt/viking) - Simple way to manage your remote machines and SSH keys
@@ -551,6 +551,7 @@ A collection of awesome things.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script. 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [commandeer/open](https://github.com/commandeer/open) - Commandeer is a tool built by developers for developers that solves three things in the cloud. First, we are focused on the deployment of your IAC. Secondly, we enable you to 'Test your Plumbing'. Lastly, Commandeer provides you the ability to easily view your data.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [dataqa/nlp-labelling](https://github.com/dataqa/nlp-labelling) - Labelling platform for text using weak supervision.
@@ -897,7 +898,6 @@ A collection of awesome things.
 - [cmu-db/ottertune](https://github.com/cmu-db/ottertune) - The automatic DBMS configuration tool
 - [coady/multimethod](https://github.com/coady/multimethod) - Multiple argument dispatching.
 - [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications 
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [cole-wilson/sailboat](https://github.com/cole-wilson/sailboat) - 🐍 A quick and easy way to distribute your Python projects!
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -1700,7 +1700,7 @@ A collection of awesome things.
 - [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [mattgreen/lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 - [mherrmann/sentry-self-hosted](https://github.com/mherrmann/sentry-self-hosted) - Self-host Sentry for $5 per month
 - [mpereira/macbook-playbook](https://github.com/mpereira/macbook-playbook) - Install all your applications and configure everything the way you like it with one command
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
