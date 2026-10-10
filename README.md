@@ -378,7 +378,7 @@ A collection of awesome things.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [neuralink/tsui](https://github.com/neuralink/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
@@ -1257,7 +1257,6 @@ A collection of awesome things.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [peopledoc/pylogctx](https://github.com/peopledoc/pylogctx) - :snake: Inject extra fields to each log records
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
@@ -1708,7 +1707,7 @@ A collection of awesome things.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [mattgreen/lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 - [mherrmann/sentry-self-hosted](https://github.com/mherrmann/sentry-self-hosted) - Self-host Sentry for $5 per month
 - [mpereira/macbook-playbook](https://github.com/mpereira/macbook-playbook) - Install all your applications and configure everything the way you like it with one command
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
@@ -1753,7 +1752,7 @@ A collection of awesome things.
 - [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 - [FrigadeHQ/yap](https://github.com/FrigadeHQ/yap) - Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
 - [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
@@ -1818,7 +1817,7 @@ A collection of awesome things.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 - [austin-starks/NextTrade](https://github.com/austin-starks/NextTrade) - (Predecessor to NexusTrade) A no-code algorithmic trading system
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
