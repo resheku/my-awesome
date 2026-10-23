@@ -1603,7 +1603,7 @@ A collection of awesome things.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust.
-- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
+- [osohq/oso](https://github.com/osohq/oso) - Legacy Oso open source library (archived)
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
