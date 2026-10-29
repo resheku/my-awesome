@@ -232,7 +232,7 @@ A collection of awesome things.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [LyleMi/ja3proxy](https://github.com/LyleMi/ja3proxy) - Customizing TLS (JA3) Fingerprints through HTTP Proxy
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
@@ -681,7 +681,7 @@ A collection of awesome things.
 ## OCaml
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [meta/pyre-check](https://github.com/meta/pyre-check) - Performant type-checking for python.
 
 ## Objective-C
 
@@ -1015,7 +1015,6 @@ A collection of awesome things.
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict) - :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [facebookincubator/Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
 - [facebookincubator/MetaPython](https://github.com/facebookincubator/MetaPython) - This is Meta's fork of the CPython runtime.  The name "cinder" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
@@ -1189,6 +1188,7 @@ A collection of awesome things.
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql) - A HugSQL-inspired database library for Python
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
+- [meta/prophet](https://github.com/meta/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [metaist/cosmofy](https://github.com/metaist/cosmofy) - Cosmopolitan Python Bundler
 - [metaperl/python-oop](https://github.com/metaperl/python-oop) - Catalog of Python object-oriented programming articles and links
 - [mgedmin/findimports](https://github.com/mgedmin/findimports) - Static analysis of Python import statements
@@ -1850,7 +1850,6 @@ A collection of awesome things.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
@@ -1878,6 +1877,7 @@ A collection of awesome things.
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [manzt/quak](https://github.com/manzt/quak) - a scalable data profiler
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
