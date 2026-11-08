@@ -395,7 +395,6 @@ A collection of awesome things.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-- [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) - Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
@@ -411,7 +410,6 @@ A collection of awesome things.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [tcnksm/go-input](https://github.com/tcnksm/go-input) - Go package for ideal tty prompt
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -423,7 +421,6 @@ A collection of awesome things.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [vale-cli/Google](https://github.com/vale-cli/Google) - A Vale-compatible implementation of the Google Developer Documentation Style Guide.
 - [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -444,7 +441,6 @@ A collection of awesome things.
 
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-- [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [alivx/CIS-Ubuntu-20.04-Ansible](https://github.com/alivx/CIS-Ubuntu-20.04-Ansible) - Ansible Role to Automate CIS v1.1.0 Ubuntu Linux 18.04 LTS, 20.04 LTS Remediation 
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -452,8 +448,6 @@ A collection of awesome things.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [entropy-data/data-landscape](https://github.com/entropy-data/data-landscape) - Interactive landscape of the open standards that power a modern data architecture — data-landscape.com
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-- [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
-- [hunzaboy/CodedMailsFree](https://github.com/hunzaboy/CodedMailsFree) - Ready to use 50+ responsive HTML email templates - Codedmails Free
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [jgujerry/python-frameworks](https://github.com/jgujerry/python-frameworks) - Another curated list of Python frameworks
 - [langserver/langserver.github.io](https://github.com/langserver/langserver.github.io) - 
@@ -510,7 +504,6 @@ A collection of awesome things.
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required.
 - [Cykelero/timefind](https://github.com/Cykelero/timefind) - Search through a website's history.
 - [DO-SAY-GO/tdf](https://github.com/DO-SAY-GO/tdf) - 🌱 TDF - Tree Document Format - a universal file format for web collections
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [No-Backspace-Crew/Speedrun](https://github.com/No-Backspace-Crew/Speedrun) - Markdown to build tools
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
@@ -527,11 +520,9 @@ A collection of awesome things.
 - [dataqa/nlp-labelling](https://github.com/dataqa/nlp-labelling) - Labelling platform for text using weak supervision.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 
-- [forbesmyester/esqlate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -810,7 +801,6 @@ A collection of awesome things.
 - [antoinecarme/pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
 - [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types) - Phantom types for Python.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [app-generator/django-tasks-manager](https://github.com/app-generator/django-tasks-manager) - Django Tasks Manager - Simple Celery Integration | AppSeed
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [approvals/ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - ApprovalTests for python
 - [areski/django-admin-tools-stats](https://github.com/areski/django-admin-tools-stats) - Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias
@@ -1192,7 +1182,6 @@ A collection of awesome things.
 - [mypebble/django-pgviews](https://github.com/mypebble/django-pgviews) - Fork of django-postgres that focuses on maintaining and improving support for Postgres SQL Views.
 - [nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [naftulikay/ansible-role-degoss](https://github.com/naftulikay/ansible-role-degoss) - An Ansible role for installing, running, and removing Goss from a system without leaving any traces.
-- [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod) - 
 - [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
@@ -1608,6 +1597,7 @@ A collection of awesome things.
 - [statespace-tech/statespace-search](https://github.com/statespace-tech/statespace-search) - Search for the agentic web.
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [superhq-ai/shuru](https://github.com/superhq-ai/shuru) - A local-first microVM sandbox for running AI agents safely on macOS & Linux
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
@@ -1824,6 +1814,7 @@ A collection of awesome things.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -1843,7 +1834,6 @@ A collection of awesome things.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Agentic BI. Analytics at the speed of code ⚡️
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
