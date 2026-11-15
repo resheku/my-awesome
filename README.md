@@ -275,6 +275,7 @@ A collection of awesome things.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
+- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -603,20 +604,10 @@ A collection of awesome things.
 
 ## Lua
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
-- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [spywhere/tmux.nvim](https://github.com/spywhere/tmux.nvim) - neovim plugin for turning neovim into terminal multiplexer
-- [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - Nmap NSE scripts that turn a service scan into CVEs, CVSS scores and known exploits — fingerprints software from HTTP responses and checks every detected CPE against the Vulners database.
 
 ## Makefile
 
-- [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [singer-io/getting-started](https://github.com/singer-io/getting-started) - This repository is a getting started guide to Singer.
 
@@ -635,7 +626,6 @@ A collection of awesome things.
 ## Nim
 
 - [PMunch/nimcr](https://github.com/PMunch/nimcr) - 
-- [metacraft-labs/py2nim](https://github.com/metacraft-labs/py2nim) - A Python-to-Nim transpiler
 
 ## Nix
 
@@ -646,17 +636,14 @@ A collection of awesome things.
 ## OCaml
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [meta/pyre-check](https://github.com/meta/pyre-check) - Performant type-checking for python.
 
 ## Objective-C
 
-- [fitztrev/shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [whomwah/qlstephen](https://github.com/whomwah/qlstephen) - A QuickLook plugin that lets you view plain text files without a file extension
 
 ## PHP
 
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [google/sqlcommenter](https://github.com/google/sqlcommenter) - 
@@ -1866,6 +1853,7 @@ A collection of awesome things.
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [opstrace/opstrace](https://github.com/opstrace/opstrace) - The Open Source Observability Distribution
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [pgstack-io/pgstack](https://github.com/pgstack-io/pgstack) - Temporary recorded access to PostgreSQL
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
