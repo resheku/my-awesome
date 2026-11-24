@@ -629,7 +629,7 @@ A collection of awesome things.
 
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
+- [supabase/postgres](https://github.com/supabase/postgres) - PostgreSQL with extensions and Supabase stuff
 
 ## OCaml
 
