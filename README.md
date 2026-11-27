@@ -212,7 +212,7 @@ A collection of awesome things.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 38M+ records/sec ingestion, 25M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Single binary. S3/Azure native. Air-gap ready. AGPL-3.0.
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - The open-source time-series lakehouse. Keep every telemetry reading: hot data fast, cold history cheap in your own bucket, one SQL across both. Telegraf and Line Protocol in, Parquet out, published as Iceberg tables Snowflake, Databricks and Athena read in place. 38M+ records/sec. Single binary. Air-gap ready. AGPL-3.0.
 - [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -606,6 +606,7 @@ A collection of awesome things.
 
 ## Makefile
 
+- [lucianmarin/strictql](https://github.com/lucianmarin/strictql) - PostgreSQL server as single-file SQLite made fast by being written in Stricta.
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [singer-io/getting-started](https://github.com/singer-io/getting-started) - This repository is a getting started guide to Singer.
 
@@ -1796,6 +1797,7 @@ A collection of awesome things.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - [powa-team/powa](https://github.com/powa-team/powa) - PostgreSQL Workload Analyzer
+- [python-developer-tooling-handbook/claude-plugins](https://github.com/python-developer-tooling-handbook/claude-plugins) - Claude Code skill for setting up Python projects with modern tooling (uv, pytest, ruff, pre-commit)
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
